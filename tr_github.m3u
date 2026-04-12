@@ -240,7 +240,7 @@ https://streams.uzunmuhalefet.com/stream/82cce5b2-d998-4108-85d8-db0728722c4a
 #EXTINF:-1 group-title="Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/a1535767-1a10-415f-81f2-967b13108bab.png" tvg-url="https://www.aspor.com.tr/" tvg-id="ASpor.tr",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/3e902021-047e-418b-b761-657e22b630c8.png" tvg-url="https://www.htspor.com/" tvg-id="HTSpor.tr",HT Spor
-https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ht_Spor.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/d34e5e05-83e3-41d5-a8a9-fc7b3603aeb7.png" tvg-url="https://www.ekoltv.com.tr/ekol-sports" tvg-id="EkolSports.tr",Ekol Sports
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/dee8ad2f-7537-44ef-bec2-cda64cd5b831.png" tvg-url="https://www.sifirtv.com/" tvg-id="SifirTV.tr",Sıfır TV
