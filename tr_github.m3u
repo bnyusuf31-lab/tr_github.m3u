@@ -419,6 +419,8 @@ https://streams.uzunmuhalefet.com/stream/6ad16f63-33f5-45bd-9742-1b98a71ce6ed.m3
 https://streams.uzunmuhalefet.com/stream/f0091bbb-4942-46ed-864b-2eb9d92d9869.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/98687328-412c-452d-a7ac-71fbbc329b5e.png" tvg-url="https://eba.gov.tr/" tvg-id="TRTEBA.tr",TRT EBA
 https://streams.uzunmuhalefet.com/stream/3cad8cd6-f7b5-4a71-98ea-586e50109ca0.m3u8
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/ec9eb56f-cabd-4dd5-b0cf-d743e92a288b.png" tvg-url="https://www.diyanetcocuk.com.tr/" tvg-id="DiyanetCocuk.tr",Diyanet Çocuk
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Diyanet_Cocuk.m3u8?t=1776276163
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/7be5925e-181a-4c4c-96c0-9cd4ec14caea.png" tvg-url="https://www.minikacocuk.com.tr/" tvg-id="MinikaCocuk.tr",Minika Çocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/789232b7-b727-4adf-a6e9-017b4e11606b.png" tvg-url="https://www.minikago.com.tr/" tvg-id="MinikaGo.tr",Minika Go
