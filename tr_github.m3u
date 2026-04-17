@@ -250,7 +250,7 @@ https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/dee8ad2f-7537-44ef-bec2-cda64cd5b831.png" tvg-url="https://www.sifirtv.com/" tvg-id="SifirTV.tr",Sıfır TV
 https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/3d0c0f6a-3deb-4bfa-a0f7-243827fed0ff.png" tvg-url="https://www.tivibu.com.tr/" tvg-id="TivibuSpor.tr",Tivibu Spor
-http://50.7.144.122:1935/live/tivibuspor.stream/playlist.m3u8?hash=7c41339c155c932adfd69ca26748f71b
+http://50.7.144.122:1935/live/tivibuspor.stream/playlist.m3u8?hash=a982bf912015ccaea7baff910a7f615d
 #EXTINF:-1 group-title="Spor" tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801839141.png" tvg-url="https://www.tivibu.com.tr/" tvg-id="TivibuSpor1.tr@HD",Tivibu Spor 1
 https://andro.1386503.xyz/checklist/androstreamlivets1.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839013.png" tvg-url="https://www.tivibu.com.tr/" tvg-id="TivibuSpor2.tr@HD",Tivibu Spor 2
