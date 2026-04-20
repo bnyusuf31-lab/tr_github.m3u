@@ -559,6 +559,8 @@ https://streams.uzunmuhalefet.com/stream/a8ffc29c-e155-447b-bc90-b42a6e2cb31e.m3
 https://streams.uzunmuhalefet.com/stream/904601a0-a0b6-4b3b-9f68-15e73afba3b7.m3u8
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://assets.uzunmuhalefet.com/logos/38c263e8-d8e5-482e-8048-931b8896c4fd.png" tvg-url="https://www.kanal6tv.com/" tvg-id="",Channel 6 TV
 https://streams.uzunmuhalefet.com/stream/2682a160-6a4f-483e-985f-f98502605506.m3u8
+#EXTINF:-1 tvg-id="Cine1.tr" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-1-tr.png" group-title="Eglence",Cine 1 TV
+http://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 #EXTINF:0 type="stream" group-title="Diğer" channelId="1077" tvg-logo="https://i.imgur.com/Bs67Ah7.png", Cine 5
 https://cdn-cine5.yayin.com.tr/cine5/cine5/chunklist_w875734487.m3u8
 #EXTINF:0 type="stream" group-title="Diğer" channelId="-1" tvg-logo="https://i.imgur.com/GQ8iJ21.png", Club Turk TV
