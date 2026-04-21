@@ -4,8 +4,8 @@
 #EXT-X-MEDIA-SEQUENCE:22881
 #EXT-X-DISCONTINUITY-SEQUENCE:0
 #EXTINF:10.001,
-media_w1944520147_22881.ts?hash=45e375ab231785d798d8fa68fe9ac51a
+http://50.7.144.122:1935/live/cartoon-network.stream/media_w1944520147_22881.ts?hash=45e375ab231785d798d8fa68fe9ac51a
 #EXTINF:10.0,
-media_w1944520147_22882.ts?hash=45e375ab231785d798d8fa68fe9ac51a
+http://50.7.144.122:1935/live/cartoon-network.stream/media_w1944520147_22882.ts?hash=45e375ab231785d798d8fa68fe9ac51a
 #EXTINF:10.0,
-media_w1944520147_22883.ts?hash=45e375ab231785d798d8fa68fe9ac51a
+http://50.7.144.122:1935/live/cartoon-network.stream/media_w1944520147_22883.ts?hash=45e375ab231785d798d8fa68fe9ac51a
