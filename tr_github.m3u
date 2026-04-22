@@ -661,8 +661,6 @@ http://live.arkumedia.com:1935/tr6tv/tr6tv/chunklist.m3u8
 https://streams.uzunmuhalefet.com/stream/d7051f7d-26dd-4405-acc7-4acecca6aafb.m3u8
 #EXTINF:0 type="stream" group-title="Diğer" channelId="-1" tvg-logo="https://i.imgur.com/t8c5pqc.png", Turkuvaz TV
 http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/3685.m3u8
-#EXTINF:0 type="stream" group-title="Diğer" channelId="-1" tvg-logo="https://i.imgur.com/yPN441W.png", Türsab TV
-https://tursab.ma.doracdn.com/tursab-live_abr/tursab/tursab-live/tursab_1080p/chunks.m3u8
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://assets.uzunmuhalefet.com/logos/33774b65-981e-43fb-a49d-689329bba59d.png" tvg-url="https://www.turkiyeklinikleri.tv/" tvg-id="",Türkiye Klinikleri
 https://streams.uzunmuhalefet.com/stream/41d98228-25d5-436f-8b1b-cef39732a3a5.m3u8
 #EXTINF:0 type="stream" group-title="Diğer" channelId="-1" tvg-logo="https://i.imgur.com/XQz5zAO.png", TV Adige
