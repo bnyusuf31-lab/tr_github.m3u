@@ -228,7 +228,7 @@ http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://assets.uzunmuhalefet.com/logos/8ae9a3c0-cc01-4dbd-a8c6-175c8b0dd287.png" tvg-url="" tvg-id="",Kuzeymax
 http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
 #EXTINF:-1 tvg-id="BizimevTV.tr@SD" tvg-logo="https://i.imgur.com/eJa6sFY.png" group-title="Eğlence",Bizimev TV
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bizim_Ev_Tv.m3u8?t=1776319325
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bizim_Ev_Tv.m3u8
 #EXTINF:0 type="stream" group-title="Eğlence" channelId="-1" tvg-logo="https://i.imgur.com/ZIM03iK.png", bluTV Aksiyon
 https://mn-nl.mncdn.com/blutv_playout/playout_hd.smil/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Eğlence" channelId="-1" tvg-logo="https://i.imgur.com/kQqo9eT.png", bluTV Komedi
@@ -318,7 +318,7 @@ https://goldvod.org/live/hpgdiscoo/123456/146.m3u8
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1 + D (V)" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="Spor",beIN SPORTS 1 + D (V)
 https://goldvod.org/live/hpgdiscoo/123456/144.m3u8
 #EXTINF:0 type="stream" group-title="Spor" channelId="-1" tvg-logo="https://i.imgur.com/jnCFU1q.png", beIN Sports Haber 
-file:///storage/emulated/0/Download/bein_haber.m3u8
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bein_Spor_Haber.m3u8
 #EXTINF:-1 tvg-id="MaçkolikTv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQXBHGz5C0zLbrSyYyx-hHVzjcuOIXVocrhQXADivzPqqFiL-7Bo6LAiY&s=10" group-title="Spor", Maçkolik TV
 https://mackolik-live.ercdn.net/mackolik/mackolik_1080p.m3u8
 #EXTINF:-1 tvg-id="tabii spor.tr"  tvg-logo="https://androbjk34.serv00.net/png/tabiispr.png" group-title="Spor",Tabii Spor
@@ -426,7 +426,7 @@ https://streams.uzunmuhalefet.com/stream/f0091bbb-4942-46ed-864b-2eb9d92d9869.m3
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/98687328-412c-452d-a7ac-71fbbc329b5e.png" tvg-url="https://eba.gov.tr/" tvg-id="TRTEBA.tr",TRT EBA
 https://streams.uzunmuhalefet.com/stream/3cad8cd6-f7b5-4a71-98ea-586e50109ca0.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/ec9eb56f-cabd-4dd5-b0cf-d743e92a288b.png" tvg-url="https://www.diyanetcocuk.com.tr/" tvg-id="DiyanetCocuk.tr",Diyanet Çocuk
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Diyanet_Cocuk.m3u8?t=1776319325
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Diyanet_Cocuk.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/7be5925e-181a-4c4c-96c0-9cd4ec14caea.png" tvg-url="https://www.minikacocuk.com.tr/" tvg-id="MinikaCocuk.tr",Minika Çocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/789232b7-b727-4adf-a6e9-017b4e11606b.png" tvg-url="https://www.minikago.com.tr/" tvg-id="MinikaGo.tr",Minika Go
