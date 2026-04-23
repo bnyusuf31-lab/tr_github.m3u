@@ -651,6 +651,8 @@ https://streams.uzunmuhalefet.com/stream/e7acc97f-1616-4a16-94a9-6a3af440bc12.m3
 https://streams.uzunmuhalefet.com/stream/51c96cb2-f19b-41d0-aaa3-2268afcdeef3.m3u8
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://assets.uzunmuhalefet.com/logos/987c568a-176b-4734-8639-e7013bb903e6.png" tvg-url="https://spiritytv.com/" tvg-id="",Spirity TV
 https://streams.uzunmuhalefet.com/stream/0d8eb569-c98e-41b0-bbbe-1df18a1b2673.m3u8
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://assets.uzunmuhalefet.com/logos/7ae1e547-7b59-476c-bbf2-b5dda94f497b.png" tvg-url="https://somine.tv/" tvg-id="",Şömine TV
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Somine_Tv.m3u8
 #EXTINF:0 type="stream" group-title="Diğer" channelId="-1" tvg-logo="https://i.imgur.com/wc5fo13.png", Tarım TV
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://assets.uzunmuhalefet.com/logos/c612eb03-13e8-46bb-9e31-b1ebd72fa4ed.png" tvg-url="https://teleontv.at.ua/" tvg-id="",TELEON
