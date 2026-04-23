@@ -96,7 +96,7 @@ https://canlitvulusal.xyz/live/eurostar/index.m3u8
 #EXTINF:-1 group-title="Ulusal - Yurt Dışı" tvg-logo="https://assets.uzunmuhalefet.com/logos/5a538084-161e-480f-9ec6-3b1acc1593e4.png" tvg-url="https://tgrteu.com/" tvg-id="TGRTEU.tr",TGRT EU
 https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
 #EXTINF:-1 group-title="Ulusal - Yurt Dışı" tvg-logo="https://assets.uzunmuhalefet.com/logos/7b1e3f67-3dd8-427f-8d3c-f0d1b80e7961.png" tvg-url="https://www.showturk.com.tr/" tvg-id="ShowTurk.tr",Show Türk
-https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1776782400&st=d-U4JiC1v35jZiqncp_iAw&tv=1
+https://streams.uzunmuhalefet.com/stream/16e43b9b-e175-482c-a105-2253c06515c9.m3u8
 #EXTINF:-1 group-title="Ulusal - Yurt Dışı" tvg-logo="https://assets.uzunmuhalefet.com/logos/9d451286-3aa1-44ca-9936-1a16d8550ed7.png" tvg-url="https://www.kanal7avrupa.com/" tvg-id="Kanal7Avrupa.tr",Kanal 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 group-title="Ulusal - Yurt Dışı" tvg-logo="https://assets.uzunmuhalefet.com/logos/ba21c671-ff84-4bf0-97b5-8b326291d36b.png" tvg-url="https://kanalavrupa.tv/" tvg-id="",Kanal Avrupa
@@ -432,7 +432,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/789232b7-b727-4adf-a6e9-017b4e11606b.png" tvg-url="https://www.minikago.com.tr/" tvg-id="MinikaGo.tr",Minika Go
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/5e11008b-c2d2-4f23-b6a1-d6f9af0e52ef.png" tvg-url="https://cartoonnetwork.com.tr/" tvg-id="CartoonNetwork.tr",Cartoon Network
-https://raw.githubusercontent.com/bnyusuf31-lab/tr_github.m3u/refs/heads/main/streams/Cartoon_Network.m3u8
+http://50.7.144.122:1935/live/cartoon-network.stream/playlist.m3u8?hash=45e375ab231785d798d8fa68fe9ac51a
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/fa92d85e-31bb-4329-8c1f-5ccbe7b3bae8.png" tvg-url="https://www.turkuvapp.com/" tvg-id="CizgiFilmTV.tr",Çizgi Film TV
 https://streams.uzunmuhalefet.com/stream/f18c5afc-97bb-4790-b124-dd17c70b6217.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/34388388-0510-4d4e-84ed-a9c6cc298742.png" tvg-url="https://www.turkuvapp.com/" tvg-id="CocuklaraOzelTV.tr",Çocuklara Özel TV
