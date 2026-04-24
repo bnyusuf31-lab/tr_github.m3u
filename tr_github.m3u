@@ -480,15 +480,23 @@ https://1.nejyoner19.workers.dev/?url=https://corestream.ronaldovurdu.help//hls/
 #EXTINF:-1,v.Bein Sport 2 Sporcafe
 https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/sbeinsports-2/playlist.m3u8?_HLS_skip=YES
 #EXTINF:-1,v.Bein Sport 2 Atomsport
-https://hlsssssss.neymardacorona.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-2.m3u8
+http://tv.atomspor.workers.dev/?ID=bein-sports-2
 #EXTINF:-1,v.Bein Sport 3 Atomsport
 https://1.nejyoner19.workers.dev/?url=https://corestream.ronaldovurdu.help//hls/bein-sports-3.m3u8
 #EXTINF:-1,v.Bein Sport 3 Sporcafe
 https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/sbeinsports-3/playlist.m3u8?_HLS_skip=YES
+#EXTINF:-1,v.Bein Sport 3 Atomsport
+http://tv.atomspor.workers.dev/?ID=bein-sports-3
 #EXTINF:-1,v.Bein Sport 4 Atomsport
 https://1.nejyoner19.workers.dev/?url=https://corestream.ronaldovurdu.help//hls/bein-sports-4.m3u8
 #EXTINF:-1,v.Bein Sport 4 Sporcafe
 https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/sbeinsports-4/playlist.m3u8?_HLS_skip=YES
+#EXTINF:-1,v.Bein Sport 4 Atomsport
+http://tv.atomspor.workers.dev/?ID=bein-sports-4
+#EXTINF:-1,v.Bein Sport Max 1 Atomsport
+http://tv.atomspor.workers.dev/?ID=bein-sports-max-1
+#EXTINF:-1,v.Bein Sport Max 2 Atomsport
+http://tv.atomspor.workers.dev/?ID=bein-sports-max-2
 #EXTINF:-1,v.DAZN 1 Sporcafe
 https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/sdazn1/playlist.m3u8?_HLS_skip=YES
 #EXTINF:-1,v.DAZN 2 Sporcafe
