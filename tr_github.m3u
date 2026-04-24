@@ -190,9 +190,9 @@ https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ZarokTV.tr@SD" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="Çocuk - Yurt Dışı",Zarok TV Sorani
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 group-title="Ekonomi" tvg-logo="https://assets.uzunmuhalefet.com/logos/144ddf6c-e2df-4725-a292-3400c3216ad8.png" tvg-url="https://www.apara.com.tr/" tvg-id="APara.tr",A Para
-https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=HAQg-NvWEtTf4i3SbuaAOw&e=1773776166
+https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3u8
 #EXTINF:-1 group-title="Ekonomi" tvg-logo="https://assets.uzunmuhalefet.com/logos/e31b4e7f-7a0f-43dc-ab5c-57b2c373de96.png" tvg-url="https://www.bloomberght.com/" tvg-id="BloombergHT.tr",Bloomberg HT
-https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?app=201b9556-b11c-4d92-b264-f21fd24e9aaf
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/bloomberght/bloomberght.m3u8
 #EXTINF:-1 group-title="Ekonomi" tvg-logo="https://assets.uzunmuhalefet.com/logos/e25527ce-8f1b-4ff5-a847-db2601a0ea56.png" tvg-url="https://www.ekoturk.com/" tvg-id="Ekoturk.tr",Ekotürk
 https://trn03.tulix.tv/gt-ekoturk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Ekonomi" tvg-logo="https://assets.uzunmuhalefet.com/logos/1547c841-f6c4-47a3-b5db-79c4fcb5ee7b.png" tvg-url="https://finansturktv.com/" tvg-id="",Finans Türk
@@ -421,6 +421,8 @@ https://ds.ayakkabiparti.lol/bbc/index.m3u8
 https://ds.ayakkabiparti.lol/history/index.m3u8
 #EXTINF:-1 tvg-id="LoveNature.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/u/6a/18359/Thumbnail.png?v=637194414598070635" group-title="Belgesel", Love Nature HD
 http://95.67.12.82:9098/
+#EXTINF:-1 tvg-id="NatureTime.tr" tvg-logo="" group-title="Belgesel",Nature Time
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/ec9eb56f-cabd-4dd5-b0cf-d743e92a288b.png" tvg-url="https://www.trtcocuk.net.tr/" tvg-id="TRTCocuk.tr",TRT Çocuk
 https://streams.uzunmuhalefet.com/stream/6ad16f63-33f5-45bd-9742-1b98a71ce6ed.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/9ae01de4-e188-48c6-b35a-430074d7b228.png" tvg-url="https://www.trtdiyanetcocuk.net.tr/" tvg-id="TRTDiyanetCocuk.tr",TRT Diyanet Çocuk
