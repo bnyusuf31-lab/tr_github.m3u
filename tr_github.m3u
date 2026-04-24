@@ -322,7 +322,7 @@ https://goldvod.org/live/hpgdiscoo/123456/144.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://netspor-amp.xyz/logo.png" group-title="Spor",Bein Sport 1 NetSpor
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6817/index.m3u8
 #EXTINF:0 type="stream" group-title="Spor" channelId="-1" tvg-logo="https://i.imgur.com/jnCFU1q.png", beIN Sports Haber 
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bein_Spor_Haber.m3u8
+https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
 #EXTINF:-1 tvg-id="MaçkolikTv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQXBHGz5C0zLbrSyYyx-hHVzjcuOIXVocrhQXADivzPqqFiL-7Bo6LAiY&s=10" group-title="Spor", Maçkolik TV
 https://mackolik-live.ercdn.net/mackolik/mackolik_1080p.m3u8
 #EXTINF:-1 tvg-id="tabii spor.tr"  tvg-logo="https://androbjk34.serv00.net/png/tabiispr.png" group-title="Spor",Tabii Spor
