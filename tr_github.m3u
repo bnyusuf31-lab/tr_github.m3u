@@ -258,7 +258,7 @@ https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/dee8ad2f-7537-44ef-bec2-cda64cd5b831.png" tvg-url="https://www.sifirtv.com/" tvg-id="SifirTV.tr",Sıfır TV
 https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/3d0c0f6a-3deb-4bfa-a0f7-243827fed0ff.png" tvg-url="https://www.tivibu.com.tr/" tvg-id="TivibuSpor.tr",Tivibu Spor
-http://50.7.144.122:1935/live/tivibuspor.stream/playlist.m3u8?hash=45e375ab231785d798d8fa68fe9ac51a
+https://trn03.tulix.tv/gt-tivibuspor1/playlist.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801839141.png" tvg-url="https://www.tivibu.com.tr/" tvg-id="TivibuSpor1.tr@HD",Tivibu Spor 1
 https://andro.1386503.xyz/checklist/androstreamlivets1.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839013.png" tvg-url="https://www.tivibu.com.tr/" tvg-id="TivibuSpor2.tr@HD",Tivibu Spor 2
@@ -319,8 +319,6 @@ https://goldvod.org/live/hpgdiscoo/123456/147.m3u8
 https://goldvod.org/live/hpgdiscoo/123456/146.m3u8
 #EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="beIN SPORTS 1 + D (V)" tvg-logo="http://mediacms01.digiturkplay.com/channel_logo/w2_Bein_Sport1_250x150_2022.png" group-title="Spor",beIN SPORTS 1 + D (V)
 https://goldvod.org/live/hpgdiscoo/123456/144.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://assets.uzunmuhalefet.com/logos/3d0c0f6a-3deb-4bfa-a0f7-243827fed0ff.png" group-title="0.KIL-SP0R  MAÇ",Tivibu Spor
-https://trn03.tulix.tv/gt-tivibuspor1/playlist.m3u8
 #EXTINF:-1 tvg-id="https://canlitvme.ismailturret.workers.dev/tivibuspor.m3u8" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/0.justin-tv.png" group-title="0.KIL-SP0R  MAÇ",Tivibu Spor Justin
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets.m3u8
 #EXTINF:-1 tvg-id="https://url24.link/AtomSporTV https://analyticsjs.sbs/load/yayinlink.php?id=bein-sports-1" tvg-logo="https://raw.githubusercontent.com/KILBERBER/kilberber/refs/heads/main/1.atom.png" group-title="0.KIL-SP0R  MAÇ",v.Bein Sport 1 Atomsport
