@@ -240,7 +240,7 @@ https://mn-nl.mncdn.com/blutv_ozelyapim/ozelyapim_hd.smil/chunklist_b2064000.m3u
 #EXTINF:0 type="stream" group-title="Eğlence" channelId="-1" tvg-logo="https://i.imgur.com/WFWv9Tc.png", CRI Türk Dizi
 https://www.guventechnology.com:19360/criturktvdizi/criturktvdizi.m3u8
 #EXTINF:0 type="stream" group-title="Eğlence" channelId="-1" tvg-logo="https://i.imgur.com/OJynDDJ.png", Kanal D Drama
-http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/157.ts
+https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/bbe065e2-ff43-4c9c-aec8-1734bd397daf.png" tvg-url="https://www.trtspor.com.tr/" tvg-id="TRTSpor.tr",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/f530a309-bcec-46a0-bb80-32a2a3591114.png" tvg-url="https://www.trtspor.com.tr/trtspor2" tvg-id="TRTSporYildiz.tr",TRT Spor Yıldız
