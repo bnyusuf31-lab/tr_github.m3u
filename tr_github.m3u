@@ -121,6 +121,10 @@ http://46.47.113.35:4000/bbcnews.ts
 https://daddy.mark-clark.workers.dev/?ID=378
 #EXTINF:-1 tvg-id="4UTV.tr@SD" tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Eğlence",4U TV
 https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hcCJkhq/Al-Arabiya.png" group-title="Haber - Yurt Dışı",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h27qpLJ/araby1.png",Al Alaraby
+https://origin-cae-t482536.cdn.nextologies.com/6837800d47c40cb2/1544c5accd8e84d5ALA2306/playlist.m3u8
 #EXTINF:-1 tvg-id="AlRafidainTV.tr@SD" tvg-logo="https://i.imgur.com/rjXDCN5.png" group-title="Haber & Dini - Yurt Dışı",Al Rafidain 
 https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8
 #EXTINF:-1 tvg-id="AlmahriahTV.tr@SD" tvg-logo="https://i.imgur.com/GgEeTNr.png" group-title="Haber - Yurt Dışı",Almahriah TV
@@ -131,10 +135,28 @@ https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 http://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MGW5Vv9/aljaz.png" group-title="Haber - Yurt Dışı",Aljazeera English 
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JcP5JHq/bbcaranw.png" group-title="Haber - Yurt Dışı",BBC News Arabia
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png" group-title="Haber - Yurt Dışı",BFM TV
+https://tra2-xdn-edge-live01.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/sid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJCRk1fVFYiLCJpYXQiOjE3NzcwMzMxOTIsImlzcyI6ImNidjQtY2RuLXNyMDAiLCJleHAiOjE3NzcwNzYzOTIsImlwIjoiODUuMTEwLjIxMi4xNzciLCJqdGkiOiIwYXM1aWc1aW92NW1wMWtmM3RiZyJ9.9j0XrYFeH0uVsXLTC105zHizbnRqXLAjiNJSKq0TSQ4/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FxZYHhM/cnbc.jpg" group-title="Ekonomi - Yurt Dışı",CNBC Arabia
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png" group-title="Haber - Yurt Dışı",CNEWS
+https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L8KP0z9/DW-arabic.png" group-title="Haber - Yurt Dışı",DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-id="EkranMovies.ir@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9bCC3hzaQ9aMOnDIXmc1Bfh-Xp4vjB3NlDw&s" group-title="Sinema - Yurt Dışı",Ekran Movies
 https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
 #EXTINF:-1 tvg-id="ElsharqTV.tr@SD" tvg-logo="https://i.imgur.com/8vmfZb5.png" group-title="Ulusal - Yurt Dışı",Elsharq TV
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="Haber - Yurt Dışı",EURONEWS FR
+https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" group-title="Haber - Yurt Dışı",France 24 Arabic
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" group-title="Haber - Yurt Dışı",France 24 FR
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XkLHrbC/frinfo2bl.png" group-title="Haber - Yurt Dışı",France İnfo:
+https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
 #EXTINF:-1 tvg-id="GEMBollywood.tr@SD" tvg-logo="https://i.imgur.com/2XASeBk.png" group-title="Sinema - Yurt Dışı",GEM Bollywood
 https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gembollywood/index-0.m3u8
 #EXTINF:-1 tvg-id="GEMClassic.tr@SD" tvg-logo="https://i.imgur.com/25BhuOf.png" group-title="Klasik - Yurt Dışı",GEM Classic
@@ -181,14 +203,34 @@ https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.a
 https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8
 #EXTINF:-1 tvg-id="GrandCinema.tr@SD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/grand-cinema.png" group-title="Sinema - Yurt Dışı",Grand Cinema
 https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S3Wm3q9/iqraanew.png" group-title="Dini - Yurt Dışı",Iqraa 1
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="Ulusal - Yurt Dışı",Jîn TV
+https://live.jintv.org/medialive/jintv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURDISTAN 24
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png",KURDISTAN TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI
+https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rkv3Nvq/lcpan.png" group-title="Ulusal - Yurt Dışı",LCP-AN
+https://viamotionhsi.netplus.ch/live/eds/lcp/browser-HLS8/lcp.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9nsvXcf/maannews.png" group-title="Ulusal - Yurt Dışı",Maan News
+https://htvmada.mada.ps:4443/maannews/index.m3u8
 #EXTINF:-1 tvg-id="MekameleenTV.tr@SD" tvg-logo="https://i.imgur.com/q7iVchl.png" group-title="Haber - Yurt Dışı",Mekameleen TV
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PersianaTurkiye.fr@SD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-turkiye-fr.png" group-title="Eğlence - Yurt Dışı",Persiana Turkiye
 https://turkhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dGjByMq/Sky-News-Arabia.png" group-title="Haber - Yurt Dışı",Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-id="SyriaTV.tr" tvg-logo="https://i.imgur.com/FjuVuXF.jpeg" group-title="Yurt Disi",Syria TV
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="QafTV.tr@SD" tvg-logo="https://i.imgur.com/hrk7Uce.png" group-title="Haber - Yurt Dışı",Qaf TV
 https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/drk4BWw/tv5inf.png" group-title="Haber - Yurt Dışı",TV5 Monde İnfo
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXd3MBV/symkr.png" group-title="Ulusal - Yurt Dışı",Zargos TV
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZarokTV.tr@SD" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="Çocuk - Yurt Dışı",Zarok TV
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ZarokTV.tr@SD" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="Çocuk - Yurt Dışı",Zarok TV Sorani
