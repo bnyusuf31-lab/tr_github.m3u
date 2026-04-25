@@ -306,7 +306,7 @@ https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/3d0c0f6a-3deb-4bfa-a0f7-243827fed0ff.png" tvg-url="https://www.tivibu.com.tr/" tvg-id="TivibuSpor.tr",Tivibu Spor
 https://trn03.tulix.tv/gt-tivibuspor1/playlist.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801839141.png" tvg-url="https://www.tivibu.com.tr/" tvg-id="TivibuSpor1.tr@HD",Tivibu Spor 1
-https://andro.1386503.xyz/checklist/androstreamlivets1.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets1.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839013.png" tvg-url="https://www.tivibu.com.tr/" tvg-id="TivibuSpor2.tr@HD",Tivibu Spor 2
 https://andro.1286503.xyz/checklist/androstreamlivets2.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801837598.png" tvg-url="https://www.tivibu.com.tr/" tvg-id="TivibuSpor3.tr@HD",Tivibu Spor 3
