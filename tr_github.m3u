@@ -641,6 +641,8 @@ https://www.guventechnology.com:19360/criturktvbelgesel/criturktvbelgesel.m3u8
 http://188.245.211.255:1935/canlitv/yabantv.stream/playlist.m3u8?hash=45e375ab231785d798d8fa68fe9ac51a
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://assets.uzunmuhalefet.com/logos/0a4992bf-7c3d-41ae-aa0d-e44ecb1ac0cb.png" tvg-url="https://www.ciftcitv.com/" tvg-id="CiftciTV.tr",Çiftçi TV
 https://streams.uzunmuhalefet.com/stream/e71083cf-eb54-408b-8aba-d66690520801.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://assets.uzunmuhalefet.com/logos/592f509e-2e57-445f-833c-e3388ae88120.png" tvg-url="https://koytv.tv/" tvg-id="",Köy TV
+https://streams.uzunmuhalefet.com/stream/7a1294e7-9fa8-4c3d-89b8-eb67e33bc2e6.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://assets.uzunmuhalefet.com/logos/dd4da8fc-609f-4d05-8adb-9bba0f584738.png" tvg-url="https://topraktv.com.tr/" tvg-id="",Toprak TV
 http://188.245.211.255:1935/canlitv/topraktv.stream/playlist.m3u8?hash=45e375ab231785d798d8fa68fe9ac51a
 #EXTINF:-1 tvg-id="National Geographic WILD.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/U/GH/16199/Thumbnail.png?v=637141612229716915" group-title="Belgesel", NAT GEO WİLD HD
