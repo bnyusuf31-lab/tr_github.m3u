@@ -119,6 +119,8 @@ http://46.47.113.35:4000/cnbc.ts
 http://46.47.113.35:4000/bbcnews.ts
 #EXTINF:-1 tvg-name="VERONICA TV" group-title="Ulusal - Yurt Dışı",VERONICA TV
 https://daddy.mark-clark.workers.dev/?ID=378
+#EXTINF:-1 group-title="Haber - Yurt Dışı" tvg-logo="https://assets.uzunmuhalefet.com/logos/b92d1f4b-55f5-4950-81ae-e4c31cd5e856.png" tvg-url="https://www.trtarabi.com/" tvg-id="TRTArabi.tr",TRT Arabi
+http://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="4UTV.tr@SD" tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Eğlence",4U TV
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hcCJkhq/Al-Arabiya.png" group-title="Haber - Yurt Dışı",Al Arabiya
