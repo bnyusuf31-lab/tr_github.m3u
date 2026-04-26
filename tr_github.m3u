@@ -310,13 +310,13 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 #EXTINF:-1 group-title="Spor" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801839013.png" tvg-url="https://www.tivibu.com.tr/" tvg-id="TivibuSpor2.tr@HD",Tivibu Spor 2
 https://api.codetabs.com/v1/proxy/?quest=https://andro.1286503.xyz/checklist/androstreamlivets2.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801837598.png" tvg-url="https://www.tivibu.com.tr/" tvg-id="TivibuSpor3.tr@HD",Tivibu Spor 3
-https://api.codetabs.com/v1/proxy/?quest=https://andro.1386503.xyz/checklist/androstreamlivets3.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://andro.1286503.xyz/checklist/androstreamlivets3.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801838550.png" tvg-url="https://www.tivibu.com.tr/" tvg-id="TivibuSpor4.tr@HD",Tivibu Spor 4
 https://api.codetabs.com/v1/proxy/?quest=https://andro.1286503.xyz/checklist/androstreamlivets4.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART.png" tvg-url="https://www.d-smart.com.tr/" tvg-id="SporSmart.tr@HD",Spor Smart
 https://api.codetabs.com/v1/proxy/?quest=https://andro.1286503.xyz/checklist/androstreamlivesm1.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2.png" tvg-url="https://www.d-smart.com.tr/" tvg-id="TivibuSpor.tr",Spor Smart 2
-https://api.codetabs.com/v1/proxy/?quest=https://andro.1386503.xyz/checklist/androstreamlivesm2.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://andro.1286503.xyz/checklist/androstreamlivesm2.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/c49e30f3-5917-452e-93ae-56886a8e8b04.png" tvg-url="https://www.fenerbahce.org/fenerbahcetv/canliyayin" tvg-id="FBTV.tr",FB TV
 https://fbtv.fenerbahce.org/fenerbahcetv.stream_1080p/chunklist.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/467af750-433b-4a59-86da-cf3d16014667.png" tvg-url="https://www.tjk.org/" tvg-id="TJKTV.tr",TJK TV
