@@ -1587,3 +1587,5 @@ https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
 #EXTINF:-1,TV 25
 https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist.m3u8
+#EXTNIF:-1,Show Radyo
+http://46.20.3.229/;stream.mp3
