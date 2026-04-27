@@ -661,6 +661,8 @@ https://ds.ayakkabiparti.lol/history/index.m3u8
 http://95.67.12.82:9098/
 #EXTINF:-1 tvg-id="NatureTime.tr" tvg-logo="" group-title="Belgesel",Nature Time
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://assets.uzunmuhalefet.com/logos/aae0367d-c9ab-45a2-8518-0968cd5d2f55.png" tvg-url="https://www.digiturk.com.tr/" tvg-id="Beinİz.tr",Bein İz
+http://c3921155.edmonst.net/iptv/E4XLXZWBES7MLN/19078/index.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/ec9eb56f-cabd-4dd5-b0cf-d743e92a288b.png" tvg-url="https://www.trtcocuk.net.tr/" tvg-id="TRTCocuk.tr",TRT Çocuk
 https://streams.uzunmuhalefet.com/stream/6ad16f63-33f5-45bd-9742-1b98a71ce6ed.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/9ae01de4-e188-48c6-b35a-430074d7b228.png" tvg-url="https://www.trtdiyanetcocuk.net.tr/" tvg-id="TRTDiyanetCocuk.tr",TRT Diyanet Çocuk
