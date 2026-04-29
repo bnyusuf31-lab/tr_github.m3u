@@ -1147,6 +1147,8 @@ http://modafm52300.ozelip.com:28008/modafm/modafm/chunklist_w1385220734.m3u8
 https://streams.uzunmuhalefet.com/stream/5a87d806-f213-49db-821d-986ae51894a8.m3u8
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://assets.uzunmuhalefet.com/logos/445053b3-3a56-47ce-a312-022c10d3df71.png" tvg-url="https://www.neftv.com.tr/" tvg-id="",Nef TV
 https://streams.uzunmuhalefet.com/stream/54f0f584-7188-4f82-ab33-4aec39c3bb57.m3u8
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://assets.uzunmuhalefet.com/logos/23960102-afb9-45c1-a5f7-b80c0e5c70e5.png" tvg-url="" tvg-id="OnsTV.tr@HD",Ons TV (Kapandı)
+https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://assets.uzunmuhalefet.com/logos/23960102-afb9-45c1-a5f7-b80c0e5c70e5.png" tvg-url="" tvg-id="CemTV.tr@SD",Cem TV
 https://tv.cemtv.net:19360/cemtv/cemtv.m3u8
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://assets.uzunmuhalefet.com/logos/f21a053a-16a3-417f-baec-26688752bfa2.png" tvg-url="" tvg-id="",Paranın Yönü
