@@ -865,6 +865,144 @@ https://vL9nQ2sH5tW1mR7xP4zK8gJ3k.medya.trt.com.tr/master.m3u8
 https://hlsssssss.neymardacorona.workers.dev/https://corestream.ronaldovurdu.help//hls/s-sport.m3u8
 #EXTINF:-1 tvg-id="SSport2.tr@SD" tvg-logo="https://i.imgur.com/2jIItAy.png" group-title="Spor",S Sport 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+#EXTINF:-1,07.Champions Club Texas
+https://linear-426.frequency.stream/mt/sportstribaltv/426/hls/master/playlist.m3u8
+#EXTINF:-1,07.Poker Go
+https://linear-426.frequency.stream/dist/localnow/426/hls/master/playlist.m3u8
+#EXTINF:-1,07.Poker Night In America
+https://linear-1068.frequency.stream/mt/freelivesports/1068/hls/master/playlist.m3u8
+#EXTINF:-1,07.World Poker Tour
+https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8
+#EXTINF:-1,07.WPT 20th Anniversary
+https://amg00218-wptenterprises-amg00218c1-sportstribal-emea-1900.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertour-sportstribalemea/playlist.m3u8
+#EXTINF:-1,07.WPT Torneo de Campeones
+https://amg00218-wptenterprises-amg00218c2-sportstribal-emea-1901.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertourespanol-sportstribalemea/playlist.m3u8
+#EXTINF:-1,08.BEK TV Sports West
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1,08.Cowboy Channel
+https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
+#EXTINF:-1,08.European Football League
+https://amg00585-amg00585c19-freelivesports-emea-6831.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-elftv-freelivesportsemea/playlist.m3u8
+#EXTINF:-1,08.GCTV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-gctv-sportstribal/playlist.m3u8
+#EXTINF:-1,08.K-Baseball TV (KBO)
+https://amg02040-amg02040c10-freelivesports-emea-7496.playouts.now.amagi.tv/playlist/amg02040-lguplus-kbo-freelivesportsemea/playlist.m3u8
+#EXTINF:-1,08.Rodeo
+https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,08.Strong Mans Champion League (CA)
+https://rightsboosterltd-scl-1-ca.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,08.Strong Mans Champion League (GB)
+https://rightsboosterltd-scl-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,08.Strong Mans Champion League (US)
+https://rightsboosterltd-scl-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1,08.Strongman
+https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,08.Strongman Champions League
+https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,08.Tennis TV Classics
+https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/playlist.m3u8
+#EXTINF:-1,09.Horse Tv
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7734
+#EXTINF:-1,09.Red Bull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,09.Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1,09.RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1,09.Surfer
+https://amg13231-actve-amg13231c4-plex-us-1821.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-plexus/playlist.m3u8
+#EXTINF:-1,10.AYM Sports
+https://aym-as.otteravision.com/aym/as/as.m3u8
+#EXTINF:-1,10.CombaTV
+https://aym-cbtv.otteravision.com/aym/cbtv/cbtv_1080p.m3u8
+#EXTINF:-1,10.DAZN Combat
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1,10.FIGHT NETWORK
+https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
+#EXTINF:-1,10.GF Tv
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6881
+#EXTINF:-1,10.Lucha Plus
+https://amg17334-amg17334c1-freelivesports-emea-7386.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-freelivesportsemea/playlist.m3u8
+#EXTINF:-1,10.MMA TV
+https://streams2.sofast.tv/ptnr-sportstrible/title-MMA_Sportstrible/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f6b049e4-885e-4551-85ac-8eef0b33d3a2/playlist.m3u8
+#EXTINF:-1,10.TNA Wrestling Channel
+https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
+#EXTINF:-1,10.UFC Network
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:-1,10.Unbeaten (Worldwide)
+https://amg00721-amg00721c6-freelivesports-emea-9595.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00721-inverleigh-unbtn3row-freelivesportsemea/playlist.m3u8
+#EXTINF:-1,10.XFC TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1986&live=1&avod=1&app_bundle=__APP_BUNDLE__&did=__DEVICE_ID__&app_category=__APP_CATEGORY__&app_domain=__APP_DOMAIN__&app_name=xfc-tv&app_store_url=__STORE_URL__&app_version=__APP_VERSION__&hls_marker=1&cb=__CACHE_BUSTER__&ip=__CLIENT_IP__&ua=__USER_AGENT__&player_height=1080&player_width=1920&is_lat=__LIMIT_AD_TRACKING__&ads.islive=1&ads.streamtype=live
+#EXTINF:-1,11.Kozoom
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01743-sportstribal-kozoom-sportstribal/playlist.m3u8
+#EXTINF:-1,11.NHL
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1,13.Canal Motor
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1,13.FloRacing
+https://amg02278-amg02278c1-freelivesports-emea-7535.playouts.now.amagi.tv/playlist/amg02278-flosports-floracing24x7-freelivesportsemea/playlist.m3u8
+#EXTINF:-1,13.GoPro
+https://linear-891.frequency.stream/mt/freelivesports/891/hls/master/playlist.m3u8
+#EXTINF:-1,13.Motorvision
+https://api-ott.motorvision.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=1199&partner=sportstribal&channel_name=Motorvision&content_genre=Drag%20Racing%2CMotor%20Racing%2CMotorsport%2CRacing%2CSport&ic=IAB17%2CIAB17-1&provider=FreeLiveSports&us_privacy=&gdpr=0&gdpr_consent=&coppa=0&content_livestream=1&content_url=https%3A%2F%2Fwatch.freelivesports.tv%2Fpages%2Fdiscover%2Fe%2Flive-tv%3Fchannel%3D6675bed4a2823e9a829eda97&lmt=0&did=r7mgUP
+#EXTINF:-1,13.mtrspt 1
+https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1,13.MTRSPT1
+https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist.m3u8
+#EXTINF:-1,13.MTRSPT1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1,13.NHRA
+https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=24&partner=sportstribal&channel_name=NHRA&content_genre=Drag%20Racing%2CMotor%20Racing%2CMotorsport%2CRacing%2CSport&ic=IAB17%2CIAB17-1&provider=FreeLiveSports&us_privacy=&gdpr=0&gdpr_consent=&coppa=0&content_livestream=1&content_url=https%3A%2F%2Fwatch.freelivesports.tv%2Fpages%2Fdiscover%2Fe%2Flive-tv%3Fchannel%3D666318a8a2498f66a3603397&lmt=0&did=r7mgUP
+#EXTINF:-1,13.Powersports World
+https://api-ott.tripleb.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=2801&partner=freelivesports&channel_name=Powersports%20World&content_genre=Motor%20Racing%2CMotorsport%2CRacing%2CSport&ic=IAB17%2CIAB17-1&provider=FreeLiveSports&us_privacy=&gdpr=0&gdpr_consent=&coppa=0&content_livestream=1&language=en&content_url=https%3A%2F%2Fwatch.freelivesports.tv%2Fpages%2Fdiscover%2Fe%2Flive-tv%3Fchannel%3D6675b91de1827c8af5d7a544&lmt=0&did=r7mgUP
+#EXTINF:-1,13.RACER International
+https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/mavtv-smn-xm/playlist.m3u8
+#EXTINF:-1,14.Pac-12 Insider
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1,Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1,Belarus 5
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
+#EXTINF:-1,Belarus 5 HD
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
+#EXTINF:-1,Belarus-5 Internet
+https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1,beIN SPORTS XTRA
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1,Colimdo TV
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:-1,insight TV
+https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1,inter TV
+https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1,KTV Sport
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1,KTV Sport Plus
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1,MNB Sport
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+#EXTINF:-1,More Than Sports TV
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1,Oman Sports TV
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1,Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+#EXTINF:-1,San Marino RTV Sport
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+#EXTINF:-1,Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
+#EXTINF:-1,Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1,Slopes TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1968&live=1&avod=1&app_bundle=__APP_BUNDLE__&did=__DEVICE_ID__&app_category=__APP_CATEGORY__&app_domain=__APP_DOMAIN__&app_name=__APP_NAME__&app_store_url=__STORE_URL__&app_version=__APP_VERSION__&cb=__CACHE_BUSTER__&ip=__CLIENT_IP__&ua=__USER_AGENT__&player_height=__HEIGHT__&player_width=__WIDTH__&is_lat=__LIMIT_AD_TRACKING__&hls_marker=1&pod_duration=&min_ad_duration=6&max_ad_duration=120&ads.islive=1&ads.streamtype=live
+#EXTINF:-1,Sportoutdoor
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Suspilne. Sport
+https://cdnua03.hls.tv/178/hls/6154479a1319705257f2335762b18f51/4856/stream.m3u8
+#EXTINF:-1,Wired2Fish
+https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://assets.uzunmuhalefet.com/logos/3952ad7f-484e-4084-adb0-35ac603e6b76.png" tvg-url="https://www.trtmuzik.net.tr/" tvg-id="TRTMuzik.tr",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://assets.uzunmuhalefet.com/logos/2bb603cc-f72e-484e-8c70-98f82cc7529d.png" tvg-url="https://www.dreamturk.com.tr/" tvg-id="DreamTurk.tr",Dream Türk
