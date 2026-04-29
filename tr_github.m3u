@@ -1657,7 +1657,7 @@ https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/87f43976-ee83-41ac-a187-0c30c434f7c3.png" tvg-url="https://www.turkhabertv.com/" tvg-id="TurkHaber.tr",Türkhaber TV
 https://streams.uzunmuhalefet.com/stream/335a70f2-e7fb-4012-99f9-a4014c305140.m3u8
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/96a7e85f-a0e4-4ff9-b7fe-0ee1f43c831f.png" tvg-url="https://turkmenelitv.com/" tvg-id="TurkmeneliTV.tr",Türkmeneli TV
-https://streams.uzunmuhalefet.com/stream/a0b3f486-60ca-4956-925b-a5d2b4c8f5ee.m3u8
+https://135962.global.ssl.fastly.net/5ff366a512987e2c0a3dabfe/live_14378e1002eb11ef9cb025207067897a/playlist.m3u8
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/4d3d1cc5-cf02-4067-8d1b-392350f58c18.png" tvg-url="https://www.tuzlahaberleri.com/" tvg-id="",Tuzla Haberleri TV
 https://streams.uzunmuhalefet.com/stream/974d4a99-8a1d-4a13-93ee-e615ab7881c5.m3u8
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/be164b84-9515-40c6-ae7d-f1700e33e17a.png" tvg-url="https://www.tvbir.com.tr/" tvg-id="",TV1 Kayseri
