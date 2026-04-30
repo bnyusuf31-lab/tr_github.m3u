@@ -793,8 +793,12 @@ https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/sd
 https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/nflnetwork/playlist.m3u8?_HLS_skip=YES
 #EXTINF:-1,v.Euro Sport 1 Sporcafe
 https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/seurosport1/playlist.m3u8?_HLS_skip=YES
+#EXTINF:-1,v.Euro Sport 1 rec
+https://api.hitnova.net/s/eu1/mono.m3u8
 #EXTINF:-1,v.Euro Sport 2 Sporcafe
 https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/seurosport2/playlist.m3u8?_HLS_skip=YES
+#EXTINF:-1,v.Euro Sport 2 rec
+https://api.hitnova.net/s/eu2/mono.m3u8
 #EXTINF:-1,v.F1 [DE]  Sporcafe
 https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/sskysportsf1de/playlist.m3u8?_HLS_skip=YES
 #EXTINF:-1,v.F1 [ITA] Sporcafe
@@ -807,32 +811,36 @@ https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/nf
 https://1.nejyoner19.workers.dev/?url=https://corestream.ronaldovurdu.help//hls/s-sport.m3u8
 #EXTINF:-1,v.S Sport 1 Sporcafe
 https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/sssport/playlist.m3u8?_HLS_skip=YES
+#EXTINF:-1,v.S Sport 1 rec
+https://api.hitnova.net/s/ss/mono.m3u8
 #EXTINF:-1,v.S Sport 2 Atomsport
 https://1.nejyoner19.workers.dev/?url=https://corestream.ronaldovurdu.help//hls/s-sport-2.m3u8
 #EXTINF:-1,v.S Sport 2 Sporcafe
 https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/sssport2/playlist.m3u8?_HLS_skip=YES
+#EXTINF:-1,v.S Sport 2 rec
+https://api.hitnova.net/s/ss2/mono.m3u8
 #EXTINF:-1,v.S Sport plus 1 Sporcafe
 https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/sssplus1/playlist.m3u8?_HLS_skip=YES
 #EXTINF:-1,v.S Sport plus 2 Sporcafe
 https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/sssplus2/playlist.m3u8?_HLS_skip=YES
 #EXTINF:-1,v.Spor Smart 1 rec
-https://mss.ayakkabiparti.lol/smart1/index.m3u8
+https://api.hitnova.net/s/smarts/mono.m3u8
 #EXTINF:-1,v.Spor Smart 2 rec
-https://mss.ayakkabiparti.lol/smart2/index.m3u8
+https://api.hitnova.net/s/sms2/mono.m3u8
 #EXTINF:-1,v.Tivibu Spor 1 Atomsport
 https://1.nejyoner19.workers.dev/?url=https://corestream.ronaldovurdu.help//hls/tivibu-spor-1.m3u8
 #EXTINF:-1,v.Tivibu Spor 1 rec
-https://mss.ayakkabiparti.lol/t1/index.m3u8
+https://api.hitnova.net/s/t1/mono.m3u8
 #EXTINF:-1,v.Tivibu Spor 2 Atomsport
 https://1.nejyoner19.workers.dev/?url=https://corestream.ronaldovurdu.help//hls/tivibu-spor-2.m3u8
 #EXTINF:-1,v.Tivibu Spor 2 rec
-https://mss.ayakkabiparti.lol/t2/index.m3u8
+https://api.hitnova.net/s/t2/mono.m3u8
 #EXTINF:-1,v.Tivibu Spor 3 Atomsport
 https://1.nejyoner19.workers.dev/?url=https://corestream.ronaldovurdu.help//hls/tivibu-spor-3.m3u8
 #EXTINF:-1,v.Tivibu Spor 3 rec
-https://mss.ayakkabiparti.lol/t3/index.m3u8
+https://api.hitnova.net/s/t3/mono.m3u8
 #EXTINF:-1,v.Tivibu Spor 4 rec
-https://mss.ayakkabiparti.lol/t4/index.m3u8
+https://api.hitnova.net/s/t4/mono.m3u8
 #EXTINF:-1,v.UFC Fight Pass Sporcafe
 https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/sufcfightpass/playlist.m3u8?_HLS_skip=YES
 #EXTINF:-1,Z.BEIN sports extra
@@ -1003,6 +1011,10 @@ https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 https://cdnua03.hls.tv/178/hls/6154479a1319705257f2335762b18f51/4856/stream.m3u8
 #EXTINF:-1,Wired2Fish
 https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/%C4%B0dman_TV_logo.png" group-title="Spor",Idman Tv
+https://api.codetabs.com/v1/proxy/?quest=https://andro.326503.xyz/checklist/androstreamliveidm.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/0/04/CBC_Sport_TV_loqo.png" group-title="Spor",CBC Sport
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://assets.uzunmuhalefet.com/logos/3952ad7f-484e-4084-adb0-35ac603e6b76.png" tvg-url="https://www.trtmuzik.net.tr/" tvg-id="TRTMuzik.tr",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://assets.uzunmuhalefet.com/logos/2bb603cc-f72e-484e-8c70-98f82cc7529d.png" tvg-url="https://www.dreamturk.com.tr/" tvg-id="DreamTurk.tr",Dream Türk
