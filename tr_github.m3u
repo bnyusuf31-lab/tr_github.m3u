@@ -825,6 +825,8 @@ https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/ss
 https://1.nejyoner19.workers.dev/?url=https://one.c37c5ccda41b4ac6.click/live/sssplus2/playlist.m3u8?_HLS_skip=YES
 #EXTINF:-1,v.Spor Smart 1 rec
 https://api.hitnova.net/s/smarts/mono.m3u8
+#EXTINF:-1,v.Spor Smart 1 Hitnova
+https://api.codetabs.com/v1/proxy/?quest=https://api.hitnova.net/s/smarts/mono.m3u8
 #EXTINF:-1,v.Spor Smart 2 rec
 https://api.hitnova.net/s/sms2/mono.m3u8
 #EXTINF:-1,v.Tivibu Spor 1 Atomsport
