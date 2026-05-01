@@ -1549,7 +1549,7 @@ https://streams.uzunmuhalefet.com/stream/ca7b041b-e824-43e5-8b11-acfe78a0cda5.m3
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/3cfa36fb-de70-4e25-8b08-d4589989612d.png" tvg-url="https://kanal34.com/" tvg-id="",Kanal 34
 https://streams.uzunmuhalefet.com/stream/e62a042c-8e97-4869-83d9-17b4b178ea94.m3u8
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/865e225b-e6e9-4c8c-a1b9-be17f6d70f1b.png" tvg-url="https://www.kanal38.com.tr/" tvg-id="",Kanal 38
-https://streams.uzunmuhalefet.com/stream/88da5769-2e15-43b4-915f-98ae9c4da926.m3u8
+http://188.245.211.255:1935/canlitv/kanal38.stream/playlist.m3u8?hash=555d1175c72bd7dcfb0d598cfe490aab
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/cf0e41c0-5c20-4359-ba12-a4854034d6f6.png" tvg-url="https://kanal53.fm.tc/" tvg-id="",Kanal 53
 https://streams.uzunmuhalefet.com/stream/713a79a2-51b0-45d4-8fe5-4f8b6ee7bd3c.m3u8
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/aeb96c96-e220-4e0d-b328-bcafc2f886c7.png" tvg-url="https://kanal58.com.tr/" tvg-id="",Kanal 58
