@@ -3343,13 +3343,13 @@ http://yayin1.yayindakiler.com:3028/;stream.mp3
 #EXTINF:-1,TRAKYA FM
 http://trakyafm.canliyayinda.com:9039/;stream.mp3
 #EXTINF:-1,TRT ANTALYA
-https://radio-trtantalya.live.trt.com.tr/master.m3u8
+https://rd-trtantalya.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT ÇUKUROVA
-https://radio-trtcukurova.live.trt.com.tr/master.m3u8
+https://rd-trtcukurova.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT ERZURUM
-https://radio-trterzurum.live.trt.com.tr/master.m3u8
+https://rd-trterzurum.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT FM
-https://radio-trtfm.live.trt.com.tr/master.m3u8
+https://rd-trtfm.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT FM
 https://ssl4.radyotvonline.com/radyohome/trtfm.stream_aac/playlist.m3u8
 #EXTINF:-1,TRT GAP DİYARBAKIR
@@ -3367,25 +3367,25 @@ https://radio-trtradyo1.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT RADYO 1
 https://ssl4.radyotvonline.com/radyohome/trtradyo1.stream_aac/playlist.m3u8
 #EXTINF:-1,TRT RADYO 3
-https://radio-trtradyo3.live.trt.com.tr/master.m3u8
+https://rd-trtradyo3.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT RADYO 6
-https://radio-trtradyo6.live.trt.com.tr/master.m3u8
+https://rd-trtradyo6.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT RADYO HABER
-https://radio-trtradyohaber.live.trt.com.tr/master.m3u8
+https://rd-trtradyohaber.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT TRABZON
-https://radio-trttrabzon.live.trt.com.tr/master.m3u8
+https://rd-trttrabzon.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT TSR Türkiye'nin Sesi Radyosu
-https://radio-trttsr.medya.trt.com.tr/master.m3u8
+https://rd-trttsr.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT TÜRKİYE'NİN SESİ
-https://radio-trttsr.live.trt.com.tr/master.m3u8
+https://rd-trttsr.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT TÜRKÜ
 https://rd-trtturku.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT VOİCE OF TURKEY EAST
-https://radio-trtvoteast.live.trt.com.tr/master.m3u8
+https://rd-trtvoteast.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT VOİCE OF TURKEY WEST
 https://radio-trtvotwest.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT VOİCE OF TURKEY WORLD
-https://radio-trtvotworld.live.trt.com.tr/master.m3u8
+https://rd-trtvotworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TUNCELİ RADYO MUNZUR
 http://yayin1.yayindakiler.com:3002/live
 #EXTINF:-1,Turkrapfm - 64 kbit/s
