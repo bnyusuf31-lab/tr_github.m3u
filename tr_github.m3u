@@ -1072,7 +1072,7 @@ http://ozburuntvbox700.ozelip.com:2052/ozburuntv/ozburuntv/playlist.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://assets.uzunmuhalefet.com/logos/df68b5b5-c14f-4d9c-a8cb-b34a02f50c18.png" tvg-url="https://www.trtbelgesel.com.tr/" tvg-id="TRTBelgesel.tr",TRT Belgesel
 https://streams.uzunmuhalefet.com/stream/d2c6d071-d252-4b73-9607-df0084017f2e.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://assets.uzunmuhalefet.com/logos/22f97725-d582-42bb-a50a-e2437125558a.png" tvg-url="https://www.tgrtbelgesel.com.tr/" tvg-id="TGRTBelgesel.tr",TGRT Belgesel
-https://cdn900.tv.vin/tgrtbelgesel.m3u8?tkn=rA6_aWU1-nHLTGMHnEZy4A&tms=1777750579&hst=tv.vin&ip=88.229.38.43&utkn=6896d3b668ac70a6b89c6b69962ca42c&ch=tgrt-belgesel
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Tgrt_Belgesel.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://assets.uzunmuhalefet.com/logos/958809cc-44b6-48ee-98ed-1e87e0632a64.png" tvg-url="https://www.cgtnturk.com/" tvg-id="CGTNDocumentary.tr",CGTN Belgesel
 https://streams.uzunmuhalefet.com/stream/2bd10121-51a7-4de7-9aaa-8b0db19bdd3b.m3u8
 #EXTINF:0 type="stream" group-title="Belgesel" channelId="-1" tvg-logo="https://i.imgur.com/0J3pR6O.png", CRI Türk Belgesel
@@ -1161,6 +1161,8 @@ https://linear-188.frequency.stream/dist/distrotv/188/hls/master/playlist.m3u8
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
 #EXTINF:-1,WeatherSpy
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://assets.uzunmuhalefet.com/logos/958809cc-44b6-48ee-98ed-1e87e0632a64.png" tvg-url="https://www.cgtnturk.com/" tvg-id="ViziBelgesel.tr",Vizi Belgesel
+http://live.cdn-vizi.workers.dev/?ID=96
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/ec9eb56f-cabd-4dd5-b0cf-d743e92a288b.png" tvg-url="https://www.trtcocuk.net.tr/" tvg-id="TRTCocuk.tr",TRT Çocuk
 https://streams.uzunmuhalefet.com/stream/6ad16f63-33f5-45bd-9742-1b98a71ce6ed.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/9ae01de4-e188-48c6-b35a-430074d7b228.png" tvg-url="https://www.trtdiyanetcocuk.net.tr/" tvg-id="TRTDiyanetCocuk.tr",TRT Diyanet Çocuk
@@ -2062,6 +2064,8 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Kemal_Sunal_Tv
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Korku_Filmleri_Tv.m3u8
 #EXTINF:-1 tvg-id="YesilcamTV.tr" tvg-logo="" group-title="Sinema",Yeşilçam TV
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Yesilcam_Tv.m3u8
+#EXTINF:-1 tvg-id="ViziSinema.tr" tvg-logo="" group-title="Sinema",Vizi Sinema
+https://live.cdn-vizi.workers.dev/?ID=94
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48992
 #EXTINF:-1 tvg-name="XXX: Penthouse Reality TV HD" group-title="MALUM YAYINLAR EROTiK",XXX: Penthouse Reality TV HD
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48993
