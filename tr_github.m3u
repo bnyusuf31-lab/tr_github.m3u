@@ -528,7 +528,7 @@ https://streams.uzunmuhalefet.com/stream/cc4f4e0d-e70f-4d1b-87f7-4f9c205c2767.m3
 #EXTINF:-1 group-title="Ekonomi" tvg-logo="https://assets.uzunmuhalefet.com/logos/e31b4e7f-7a0f-43dc-ab5c-57b2c373de96.png" tvg-url="https://www.bloomberght.com/" tvg-id="BloombergHT.tr",Bloomberg HT
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/bloomberght/bloomberght.m3u8
 #EXTINF:-1 group-title="Ekonomi" tvg-logo="https://assets.uzunmuhalefet.com/logos/e25527ce-8f1b-4ff5-a847-db2601a0ea56.png" tvg-url="https://www.ekoturk.com/" tvg-id="Ekoturk.tr",Ekotürk
-https://trn03.tulix.tv/gt-ekoturk/tracks-v1a1/mono.m3u8
+https://trn03.tulix.tv/gt-ekoturk/tracks-v1a1/mono.m3u8?token=0631e8753bcdf25bb2a5015db22ec082
 #EXTINF:-1 group-title="Ekonomi" tvg-logo="https://assets.uzunmuhalefet.com/logos/1547c841-f6c4-47a3-b5db-79c4fcb5ee7b.png" tvg-url="https://finansturktv.com/" tvg-id="",Finans Türk
 https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 #EXTINF:-1 group-title="Ekonomi" tvg-logo="https://assets.uzunmuhalefet.com/logos/dbf9df04-b521-4d47-a165-776102d7ee93.png" tvg-url="https://www.gunedogustv.com.tr/" tvg-id="",Günedoğuş TV
