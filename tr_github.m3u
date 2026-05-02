@@ -62,7 +62,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c05
 #EXTINF:-1 group-title="Haber" tvg-logo="https://assets.uzunmuhalefet.com/logos/3ec303e0-dabd-4b43-b396-e816a7ed7e43.png" tvg-url="https://www.liderhaber.com.tr/" tvg-id="LiderHaber.tr",Lider Haber TV
 https://live.cdn-vizi.workers.dev/?ID=111
 #EXTINF:-1 group-title="Haber" tvg-logo="https://assets.uzunmuhalefet.com/logos/f7404279-8923-4f40-ace3-eb7b33a7c86b.png" tvg-url="https://www.bengu-turk.com.tr/" tvg-id="Benguturk.tr",Bengü Türk TV
-https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+https://cdn509.tv.vin/benguturktv.m3u8?tkn=w89rYdNNPJXDHutflPPN0g&tms=1777751523&hst=tv.vin&ip=88.229.38.43&utkn=6896d3b668ac70a6b89c6b69962ca42c&ch=benguturk-tv
 #EXTINF:-1 group-title="Haber" tvg-logo="https://assets.uzunmuhalefet.com/logos/48705266-7426-492a-a091-f2e599ba7a36.png" tvg-url="https://neohaber.com.tr/" tvg-id="NeoHaberTV.tr",Neo Haber TV
 https://edge1.taksimbilisim.com/neohaber/bant1/chunks.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="https://assets.uzunmuhalefet.com/logos/c5caacf3-827c-4d45-9138-91ffd615afb3.png" tvg-url="https://tv.tbmm.gov.tr/" tvg-id="TBMMTV.tr@HD",TBMM TV
