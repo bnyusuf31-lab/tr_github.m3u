@@ -1291,6 +1291,8 @@ https://5be5d840359c6.streamlock.net/belediyelertv/belediyelertv/playlist.m3u8
 https://59cba4d34b678.streamlock.net/canlitv/businesschannelturk/chunklist.m3u8
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://assets.uzunmuhalefet.com/logos/b74b51a2-0659-45a5-8c82-2f3ed680eca4.png" tvg-url="https://begentv.com/" tvg-id="",Beğen TV
 https://streams.uzunmuhalefet.com/stream/ed581547-9735-4ad1-804d-8ab925446060.m3u8
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://assets.uzunmuhalefet.com/logos/b901ba7e-2e39-4d70-996e-7df966779a05.png" tvg-url="" tvg-id="",Bi Kanal
+https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://assets.uzunmuhalefet.com/logos/b901ba7e-2e39-4d70-996e-7df966779a05.png" tvg-url="" tvg-id="",Bizim Ocak TV
 https://streams.uzunmuhalefet.com/stream/4428c9dd-2714-4705-a025-e3eaf7b8fd6e.m3u8
 #EXTINF:0 type="stream" group-title="Diğer" channelId="-1" tvg-logo="https://i.imgur.com/5ZrZT3s.png", Cansu TV
