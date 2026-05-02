@@ -1436,7 +1436,7 @@ https://yayin.santraltr.com/hls/zeynotv.m3u8
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/b45d3fb8-b3ee-484f-9c1a-a5304e0fa13f.png" tvg-url="https://www.61saat.com/video/61saat-tv-canli-yayin" tvg-id="",61 Saat TV
 https://streams.uzunmuhalefet.com/stream/8aec6af7-c43b-4ce3-92e4-6ddb65e411d5.m3u8
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/e6ed029b-4bdb-4e95-acde-24e0b88c83b8.png" tvg-url="https://www.ahitv.com.tr/" tvg-id="",Ahi TV
-https://streams.uzunmuhalefet.com/stream/274588b2-6226-4a6e-8beb-37b3c323ad05.m3u8
+http://188.245.211.255:1935/canlitv/ahitv.stream/playlist.m3u8?hash=555d1175c72bd7dcfb0d598cfe490aab
 #EXTINF:-1 tvg-id="AfroturkTV.tr@SD" tvg-logo="https://i.imgur.com/fWlLvRA.png" group-title="General",Afroturk TV (1080p)
 https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Yerel" channelId="-1" tvg-logo="https://i.imgur.com/4EyVGQY.png", Afyon Türk
