@@ -44,7 +44,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:1 tvg-id="KRT.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8b0cd26d-1211-485b-87f7-f648e33c44f1.png" group-title="Haber",KRT TV
 https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Krt_Tv.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="https://assets.uzunmuhalefet.com/logos/f16de70e-9de7-4b41-937f-11a65fb2932d.png" tvg-url="https://www.szctv.com.tr/" tvg-id="SozcuTV.tr",Sözcü TV
-https://cdn900.tv.vin/sozcutv.m3u8?tkn=0A0_qhGtTuOR-dmLzQYoLQ&tms=1777749108&hst=tv.vin&ip=88.229.38.43&utkn=6896d3b668ac70a6b89c6b69962ca42c&ch=sozcu-tv
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Sozcu_Tv.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="https://assets.uzunmuhalefet.com/logos/76175b6c-2a79-4fcd-89d5-026c4e76edb1.png" tvg-url="https://www.ekoltv.com.tr/" tvg-id="EkolTV.tr",Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="https://assets.uzunmuhalefet.com/logos/1af160f1-276e-401f-9ecf-2157e05bf477.png" tvg-url="https://www.tvnet.com.tr/" tvg-id="TVNET.tr",TVNET
@@ -52,7 +52,7 @@ https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="https://assets.uzunmuhalefet.com/logos/58890cb1-145f-43fe-86f9-a5e406bd4ed4.png" tvg-url="https://www.tele1.com.tr/" tvg-id="Tele1.tr",TELE1
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="https://assets.uzunmuhalefet.com/logos/1db4d8d5-bd45-400e-92c4-4739e1f7c241.png" tvg-url="https://www.akittv.com.tr/" tvg-id="AkitTV.tr",Akit TV
-https://cdn900.tv.vin/akittv.m3u8?tkn=-p_SKKsy5S8hh2Os4BLsZg&tms=1777750792&hst=tv.vin&ip=88.229.38.43&utkn=6896d3b668ac70a6b89c6b69962ca42c&ch=akit-tv
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Akit_Tv.m3u8 
 #EXTINF:-1 group-title="Haber" tvg-logo="https://assets.uzunmuhalefet.com/logos/c75d260b-10d6-42c6-b69e-bf04f773cc9b.png" tvg-url="https://www.ulusal.com.tr/" tvg-id="UlusalKanal.tr",Ulusal Kanal
 https://internettv.guventechnology.com/hls/ulusaltv/index.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="https://assets.uzunmuhalefet.com/logos/058318fb-65bc-4ebd-8d52-add836f53ba9.png" tvg-url="https://www.tv5.com.tr/" tvg-id="TV5.tr",TV 5
@@ -62,7 +62,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c05
 #EXTINF:-1 group-title="Haber" tvg-logo="https://assets.uzunmuhalefet.com/logos/3ec303e0-dabd-4b43-b396-e816a7ed7e43.png" tvg-url="https://www.liderhaber.com.tr/" tvg-id="LiderHaber.tr",Lider Haber TV
 https://live.cdn-vizi.workers.dev/?ID=111
 #EXTINF:-1 group-title="Haber" tvg-logo="https://assets.uzunmuhalefet.com/logos/f7404279-8923-4f40-ace3-eb7b33a7c86b.png" tvg-url="https://www.bengu-turk.com.tr/" tvg-id="Benguturk.tr",Bengü Türk TV
-https://cdn509.tv.vin/benguturktv.m3u8?tkn=w89rYdNNPJXDHutflPPN0g&tms=1777751523&hst=tv.vin&ip=88.229.38.43&utkn=6896d3b668ac70a6b89c6b69962ca42c&ch=benguturk-tv
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Benguturk_Tv.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="https://assets.uzunmuhalefet.com/logos/48705266-7426-492a-a091-f2e599ba7a36.png" tvg-url="https://neohaber.com.tr/" tvg-id="NeoHaberTV.tr",Neo Haber TV
 https://edge1.taksimbilisim.com/neohaber/bant1/chunks.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="https://assets.uzunmuhalefet.com/logos/c5caacf3-827c-4d45-9138-91ffd615afb3.png" tvg-url="https://tv.tbmm.gov.tr/" tvg-id="TBMMTV.tr@HD",TBMM TV
@@ -1176,7 +1176,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/789232b7-b727-4adf-a6e9-017b4e11606b.png" tvg-url="https://www.minikago.com.tr/" tvg-id="MinikaGo.tr",Minika Go
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/5e11008b-c2d2-4f23-b6a1-d6f9af0e52ef.png" tvg-url="https://cartoonnetwork.com.tr/" tvg-id="CartoonNetwork.tr",Cartoon Network
-https://cdn502.tv.vin/cartoon.m3u8?tkn=xRoUcOiaOKVJ_wOPhJdfrA&tms=1777748907&hst=tv.vin&ip=88.229.38.43&utkn=6896d3b668ac70a6b89c6b69962ca42c&ch=cartoon-network
+http://50.7.144.122:1935/live/cartoon-network.stream/playlist.m3u8?hash=555d1175c72bd7dcfb0d598cfe490aab
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/5e11008b-c2d2-4f23-b6a1-d6f9af0e52ef.png" tvg-url="https://spacetoon.com.tr/" tvg-id="SpacetoonTV.tr",Spacetoon TV
 https://live.cdn-vizi.workers.dev/?ID=112
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/fa92d85e-31bb-4329-8c1f-5ccbe7b3bae8.png" tvg-url="https://www.turkuvapp.com/" tvg-id="CizgiFilmTV.tr",Çizgi Film TV
@@ -1759,7 +1759,7 @@ https://streams.uzunmuhalefet.com/stream/c1b6f4b2-4b92-444d-872c-66a1ecb2da50.m3
 #EXTINF:-1 group-title="Kıbrıs" tvg-logo="https://assets.uzunmuhalefet.com/logos/296b1154-4af4-4443-a93d-f9b28ab00cd4.png" tvg-url="http://www.kanalsim.com/" tvg-id="",Kanal Sim
 https://streams.uzunmuhalefet.com/stream/c9c46c4d-efa9-464b-8a16-394b25096f35.m3u8
 #EXTINF:-1 group-title="Kıbrıs" tvg-logo="https://assets.uzunmuhalefet.com/logos/94106af4-b8c4-4b07-9c29-dc9933755457.png" tvg-url="https://www.diyaloggazetesi.com/" tvg-id="",TV 2020
-https://cdn900.tv.vin/tv2020.m3u8?tkn=OwdaZDx_ktX0Qk--RnntMg&tms=1777751264&hst=tv.vin&ip=88.229.38.43&utkn=6896d3b668ac70a6b89c6b69962ca42c&ch=tv-2020
+https://edge.kuzeykibrissmart.tv/tv2020/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Kıbrıs" tvg-logo="https://assets.uzunmuhalefet.com/logos/13a15812-c9fd-4092-858d-9b4c6ecd12e4.png" tvg-url="" tvg-id="",Torba TV
 https://streams.uzunmuhalefet.com/stream/5ff4a325-ab1b-4393-a802-b2b95e97812d.m3u8
 #EXTINF:-1 group-title="Kıbrıs" tvg-logo="https://assets.uzunmuhalefet.com/logos/f217ac06-984f-416c-95a3-15991f1f0c3c.png" tvg-url="https://onbeskku.edu.tr/" tvg-id="",Okku TV
