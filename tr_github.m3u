@@ -1211,6 +1211,8 @@ https://streams.uzunmuhalefet.com/stream/928b9f56-271c-440f-90ec-bedd7efc8f5f.m3
 https://streams.uzunmuhalefet.com/stream/a7795b5c-44dd-4a7e-b428-af25170193c5.m3u8
 #EXTINF:-1 group-title="Dini" tvg-logo="https://assets.uzunmuhalefet.com/logos/1e6619aa-53c0-4fbd-ba2c-cdbf3f301d7c.png" tvg-url="https://dosttv.com/" tvg-id="DostTV.tr",Dost TV
 https://streams.uzunmuhalefet.com/stream/8c40da6c-cbfb-48f9-a38e-0b419d8c121f.m3u8
+#EXTINF:1 tvg-id="GoncaTV.tr" tvg-language="Turkish" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/fd35fe6a-c4fb-413f-84dc-f9e5afff6cba.png" group-title="Dini",Gonca TV
+https://cdn900.tv.vin/goncatv.m3u8?tkn=v9EnE9rorLgUdY_OKK1YYA&tms=1777751019&hst=tv.vin&ip=88.229.38.43&utkn=6896d3b668ac70a6b89c6b69962ca42c&ch=gonca-tv
 #EXTINF:-1 group-title="Dini" tvg-logo="https://assets.uzunmuhalefet.com/logos/b42ad734-129d-46e4-a6ce-7e55ac444d53.png" tvg-url="https://meltemtv.com.tr/" tvg-id="MeltemTV.tr",Meltem TV
 https://streams.uzunmuhalefet.com/stream/f49b3cb6-cd33-4064-97a1-8b0c79d3681a.m3u8
 #EXTINF:-1 group-title="Dini" tvg-logo="https://assets.uzunmuhalefet.com/logos/44dd0128-9d22-4aed-b9ca-375b90cdb06e.png" tvg-url="https://www.ikratv.com/" tvg-id="IkraTV.tr",İkra TV
