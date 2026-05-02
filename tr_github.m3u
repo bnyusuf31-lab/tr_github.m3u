@@ -1579,7 +1579,7 @@ https://streams.uzunmuhalefet.com/stream/eb8b9300-8df9-423b-ac01-abb231d905d6.m3
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/a5df1c55-89f6-4c94-93b9-ea17c1c81fb5.png" tvg-url="https://www.kardelentv.com.tr/" tvg-id="",Kardelen TV
 https://streams.uzunmuhalefet.com/stream/a72319f1-0c82-497e-afc4-16e89b0f4810.m3u8
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/98251a7c-ceee-4d00-b15d-b583418e50e6.png" tvg-url="https://www.facebook.com/37kastamonutv/" tvg-id="",Kastamonu TV
-https://streams.uzunmuhalefet.com/stream/c0d93c06-82ab-49e5-bdd6-2fa66ef2e4eb.m3u8
+http://51.91.118.139:8080/live/kastamonutv/kastamonutv/3385.m3u8
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/5abb3a3a-0162-4ade-93a7-9c4b8c13c866.png" tvg-url="https://kaytv.com.tr/" tvg-id="",Kay TV
 https://streams.uzunmuhalefet.com/stream/605e53af-8d7d-4a2b-93a8-5fb8a883c9c6.m3u8
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/167afdbb-3037-4710-9aa5-4f2d2e23a8e0.png" tvg-url="https://kent64.com.tr/" tvg-id="",Kent 64 TV
