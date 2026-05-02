@@ -590,7 +590,7 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/d34e5e05-83e3-41d5-a8a9-fc7b3603aeb7.png" tvg-url="https://www.ekoltv.com.tr/ekol-sports" tvg-id="EkolSports.tr",Ekol Sports
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/dee8ad2f-7537-44ef-bec2-cda64cd5b831.png" tvg-url="https://www.sifirtv.com/" tvg-id="SifirTV.tr",Sıfır TV
-https://ahr7chck.rocketcdn.com/sifirtv.stream/chunklist.m3u8
+https://live.cdn-vizi.workers.dev/?ID=106
 #EXTINF:-1 group-title="Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/3d0c0f6a-3deb-4bfa-a0f7-243827fed0ff.png" tvg-url="https://www.tivibu.com.tr/" tvg-id="TivibuSpor.tr",Tivibu Spor
 https://trn03.tulix.tv/gt-tivibuspor1/playlist.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801839141.png" tvg-url="https://www.tivibu.com.tr/" tvg-id="TivibuSpor1.tr@HD",Tivibu Spor 1
