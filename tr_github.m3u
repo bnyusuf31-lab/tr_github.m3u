@@ -856,7 +856,7 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bein_Spor_Habe
 #EXTINF:-1 tvg-id="MaçkolikTv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQXBHGz5C0zLbrSyYyx-hHVzjcuOIXVocrhQXADivzPqqFiL-7Bo6LAiY&s=10" group-title="Spor", Maçkolik TV
 https://mackolik-live.ercdn.net/mackolik/mackolik_1080p.m3u8
 #EXTINF:-1 tvg-id="tabii spor.tr"  tvg-logo="https://androbjk34.serv00.net/png/tabiispr.png" group-title="Spor",Tabii Spor
-https://ds.ayakkabiparti.lol/tabi/index.m3u8
+http://live.tabitv.workers.dev/?ID=tabii%20spor
 #EXTINF:-1 tvg-id="Tabii Spor 1" tvg-logo="https://androbjk34.serv00.net/png/tabii1.png" group-title="Spor",Tabii Spor 1
 https://pz4qt7nw1mr9sh2vl5xk8jg3y.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Tabii Spor 2"  tvg-logo="https://androbjk34.serv00.net/png/tabii2.png" group-title="Spor",Tabii Spor 2
