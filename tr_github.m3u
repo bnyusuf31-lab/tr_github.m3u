@@ -1181,6 +1181,8 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 http://50.7.144.122:1935/live/cartoon-network.stream/playlist.m3u8?hash=555d1175c72bd7dcfb0d598cfe490aab
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/5e11008b-c2d2-4f23-b6a1-d6f9af0e52ef.png" tvg-url="https://cartoonnetwork.com.tr/" tvg-id="Cartoonito.tr",Cartoonito
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6850/index.m3u8
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicktoons_2023_Outlined_Logo.png/500px-Nicktoons_2023_Outlined_Logo.png" tvg-id="Dummy" , Nicktoons
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/6848/index.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/5e11008b-c2d2-4f23-b6a1-d6f9af0e52ef.png" tvg-url="https://spacetoon.com.tr/" tvg-id="SpacetoonTV.tr",Spacetoon TV
 https://live.cdn-vizi.workers.dev/?ID=112
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/fa92d85e-31bb-4329-8c1f-5ccbe7b3bae8.png" tvg-url="https://www.turkuvapp.com/" tvg-id="CizgiFilmTV.tr",Çizgi Film TV
