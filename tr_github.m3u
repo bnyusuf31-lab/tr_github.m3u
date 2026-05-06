@@ -2079,7 +2079,7 @@ https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://65.108.239.207/sinema100
 #EXTINF:-1 tvg-id="Sinema Tv 1002.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinema1002_logo_FEC606FA-0E12-4B71-AE3A-E9879A6AB678.png" group-title="Sinema", Sinema 1002
 https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://goldvod.org/live/hpgdisco/123456/175.m3u8
 #EXTINF:-1 tvg-id="MovieSmart Turk.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/e/ZI/13863/Thumbnail.png?v=636987856299906443" group-title="Sinema", Moviesmart Türk HD
-https://ds.ayakkabiparti.lol/mvturk/index.m3u8
+http://c3921155.edmonst.net/iptv/E4XLXZWBES7MLN/6811/index.m3u8
 #EXTINF:-1 tvg-id="BeinMoviesPreimere.tr" tvg-logo="" group-title="Sinema",Bein Movies Premiere HD Türkiye
 http://c3921155.edmonst.net/iptv/E4XLXZWBES7MLN/6880/index.m3u8
 #EXTINF:-1 tvg-id="BeinSeries1.tr" tvg-logo="" group-title="Sinema",Bein Series 1 HD Türkiye 
