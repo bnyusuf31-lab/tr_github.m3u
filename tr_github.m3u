@@ -1102,7 +1102,7 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:0 type="stream" group-title="Belgesel" channelId="-1" tvg-logo="https://i.imgur.com/FYP5txe.png", NHT TV
 http://nhttv22.nhttv.com:29020/nhttv/nhttv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC EARTH.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/e/Bj/11896/Thumbnail.png?v=636996527021886315" group-title="Belgesel", BBC EARTH HD
-https://ds.ayakkabiparti.lol/bbc/index.m3u8 
+http://c3921155.edmonst.net/iptv/E4XLXZWBES7MLN/6854/index.m3u8 
 #EXTINF:-1 tvg-id="History Channel.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/y/Ey/37198/Thumbnail.png?v=637554127141657600" group-title="Belgesel", HISTORY HD
 https://ds.ayakkabiparti.lol/history/index.m3u8
 #EXTINF:-1 tvg-id="LoveNature.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/u/6a/18359/Thumbnail.png?v=637194414598070635" group-title="Belgesel", Love Nature HD
