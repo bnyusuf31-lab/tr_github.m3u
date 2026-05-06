@@ -591,8 +591,6 @@ https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web
 https://streams.uzunmuhalefet.com/stream/82cce5b2-d998-4108-85d8-db0728722c4a.ts
 #EXTINF:-1 group-title="Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/a1535767-1a10-415f-81f2-967b13108bab.png" tvg-url="https://www.aspor.com.tr/" tvg-id="ASpor.tr",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-#EXTINF:-1 tvg-id="SportsTV.tr@SD" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="Spor",Sports TV
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/3e902021-047e-418b-b761-657e22b630c8.png" tvg-url="https://www.htspor.com/" tvg-id="HTSpor.tr",HT Spor
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/d34e5e05-83e3-41d5-a8a9-fc7b3603aeb7.png" tvg-url="https://www.ekoltv.com.tr/ekol-sports" tvg-id="EkolSports.tr",Ekol Sports
@@ -617,6 +615,8 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.1286503.xyz/checklist/and
 https://api.codetabs.com/v1/proxy/?quest=https://andro.1286503.xyz/checklist/androstreamlivesm2.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/c49e30f3-5917-452e-93ae-56886a8e8b04.png" tvg-url="https://www.fenerbahce.org/fenerbahcetv/canliyayin" tvg-id="FBTV.tr",FB TV
 https://fbtv.fenerbahce.org/fenerbahcetv.stream_1080p/chunklist.m3u8
+#EXTINF:-1 tvg-id="SportsTV.tr@SD" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="Spor",Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/467af750-433b-4a59-86da-cf3d16014667.png" tvg-url="https://www.tjk.org/" tvg-id="TJKTV.tr",TJK TV
 https://tjktv-live.tjk.org/tjktv.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/467af750-433b-4a59-86da-cf3d16014667.png" tvg-url="https://www.tjk.org/" tvg-id="",TJK TV 2
