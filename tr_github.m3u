@@ -2157,7 +2157,7 @@ https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
 #EXTINF:-1,TV 25
 https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist.m3u8
-#EXTINF:-1 group-title="Ulusal" tvg-logo="https://assets.uzunmuhalefet.com/logos/aae0367d-c9ab-45a2-8518-0968cd5d2f55.png" tvg-url="https://www.trt.com.tr/" tvg-id="TRT4K.tr",TRT 4K
+#EXTINF:-1 group-title="4K" tvg-logo="https://assets.uzunmuhalefet.com/logos/aae0367d-c9ab-45a2-8518-0968cd5d2f55.png" tvg-url="https://www.trt.com.tr/" tvg-id="TRT4K.tr",TRT 4K
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/4001/index.m3u8
 #EXTM3U
 #EXTINF:-1,*Radyo 40 - KIRŞEHİR NEŞET ERTAŞ - HasBahCa
