@@ -2078,12 +2078,26 @@ https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://65.108.239.207/sinemaaks
 https://m3u8-proxy-1-urh0.onrender.com/proxy?url=http://65.108.239.207/sinema1001/index.m3u8
 #EXTINF:-1 tvg-id="Sinema Tv 1002.tr" tvg-logo="https://www.tivibu.com.tr/uploads/ChannelFiles/sinema1002_logo_FEC606FA-0E12-4B71-AE3A-E9879A6AB678.png" group-title="Sinema", Sinema 1002
 https://m3u8-proxy-1-urh0.onrender.com/proxy?url=https://goldvod.org/live/hpgdisco/123456/175.m3u8
+#EXTINF:-1,Movie Smart Classic 
+http://463758a0.ucomist.net/iptv/E4XLXZWBES7MLN/6807/index.m3u8
 #EXTINF:-1 tvg-id="MovieSmart Turk.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/400//content/e/ZI/13863/Thumbnail.png?v=636987856299906443" group-title="Sinema", Moviesmart Türk HD
-http://c3921155.edmonst.net/iptv/E4XLXZWBES7MLN/6811/index.m3u8
-#EXTINF:-1 tvg-id="BeinMoviesPreimere.tr" tvg-logo="" group-title="Sinema",Bein Movies Premiere HD Türkiye
-http://c3921155.edmonst.net/iptv/E4XLXZWBES7MLN/6880/index.m3u8
-#EXTINF:-1 tvg-id="BeinSeries1.tr" tvg-logo="" group-title="Sinema",Bein Series 1 HD Türkiye 
-http://c3921155.edmonst.net/iptv/E4XLXZWBES7MLN/6881/index.m3u8
+http://463758a0.ucomist.net/iptv/E4XLXZWBES7MLN/6811/index.m3u8
+#EXTINF:-1,Movie Smart Action 
+http://463758a0.ucomist.net/iptv/E4XLXZWBES7MLN/6812/index.m3u8
+#EXTINF:-1,beIN Movies Action 2 HD 
+http://463758a0.ucomist.net/iptv/E4XLXZWBES7MLN/6876/index.m3u8
+#EXTINF:-1,beIN Movies Action HD 
+http://463758a0.ucomist.net/iptv/E4XLXZWBES7MLN/6877/index.m3u8
+#EXTINF:-1,beIN Movies Family HD 
+http://463758a0.ucomist.net/iptv/E4XLXZWBES7MLN/6878/index.m3u8
+#EXTINF:-1,beIN Movies Premiere 2 HD 
+http://463758a0.ucomist.net/iptv/E4XLXZWBES7MLN/6879/index.m3u8
+#EXTINF:-1,beIN Movies Premiere HD 
+http://463758a0.ucomist.net/iptv/E4XLXZWBES7MLN/6880/index.m3u8
+#EXTINF:-1,beIN Series Comedy HD 
+http://463758a0.ucomist.net/iptv/E4XLXZWBES7MLN/6881/index.m3u8
+#EXTINF:-1,beIN Series Drama HD 
+http://463758a0.ucomist.net/iptv/E4XLXZWBES7MLN/6882/index.m3u8
 #EXTINF:-1 tvg-id="Film Screen.tr" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/7d58e86c-d38e-4ef5-8ee0-fda0a7e65914.png" group-title="Sinema", Film Screen HD
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="KemalSunalTV.tr" tvg-logo="" group-title="Sinema", Kemal Sunal TV
