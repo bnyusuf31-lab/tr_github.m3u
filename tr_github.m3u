@@ -1075,6 +1075,8 @@ http://snmtv.ozelip.com:2052/demotv/demotv/playlist.m3u8
 http://snmtv.ozelip.com:2052/genckraltv/genckraltv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Müzik" channelId="-1" tvg-logo="https://i.imgur.com/RvIwh2q.png", Özburun TV
 http://ozburuntvbox700.ozelip.com:2052/ozburuntv/ozburuntv/playlist.m3u8
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://assets.uzunmuhalefet.com/logos/05f87412-5cd3-41ee-9874-66e41121c6eb.png" tvg-url="https://www.turkuvapp.com/" tvg-id="Kanal65.tr",Kanal 65
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/catcast/kanal-65.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://assets.uzunmuhalefet.com/logos/df68b5b5-c14f-4d9c-a8cb-b34a02f50c18.png" tvg-url="https://www.trtbelgesel.com.tr/" tvg-id="TRTBelgesel.tr",TRT Belgesel
 https://streams.uzunmuhalefet.com/stream/d2c6d071-d252-4b73-9607-df0084017f2e.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://assets.uzunmuhalefet.com/logos/22f97725-d582-42bb-a50a-e2437125558a.png" tvg-url="https://www.tgrtbelgesel.com.tr/" tvg-id="TGRTBelgesel.tr",TGRT Belgesel
