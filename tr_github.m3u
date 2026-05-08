@@ -1173,7 +1173,7 @@ https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://assets.uzunmuhalefet.com/logos/958809cc-44b6-48ee-98ed-1e87e0632a64.png" tvg-url="https://www.cgtnturk.com/" tvg-id="ViziBelgesel.tr",Vizi Belgesel
 http://live.cdn-vizi.workers.dev/?ID=96
-#EXTINF:-1 tvg-id="Beinİz.tr" tvg-logo="" group-title="Belgesel",Bein İz
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://assets.uzunmuhalefet.com/logos/958809cc-44b6-48ee-98ed-1e87e0632a64.png" tvg-url="https://www.digiturk.com.tr/" tvg-id="Beinİz.tr",Bein İz
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19078/index.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/ec9eb56f-cabd-4dd5-b0cf-d743e92a288b.png" tvg-url="https://www.trtcocuk.net.tr/" tvg-id="TRTCocuk.tr",TRT Çocuk
 https://streams.uzunmuhalefet.com/stream/6ad16f63-33f5-45bd-9742-1b98a71ce6ed.m3u8
