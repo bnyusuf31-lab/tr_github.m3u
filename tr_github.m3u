@@ -1077,6 +1077,8 @@ http://snmtv.ozelip.com:2052/genckraltv/genckraltv/playlist.m3u8
 http://ozburuntvbox700.ozelip.com:2052/ozburuntv/ozburuntv/playlist.m3u8
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://assets.uzunmuhalefet.com/logos/05f87412-5cd3-41ee-9874-66e41121c6eb.png" tvg-url="https://www.turkuvapp.com/" tvg-id="Kanal65.tr",Kanal 65
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/catcast/kanal-65.m3u8
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://assets.uzunmuhalefet.com/logos/05f87412-5cd3-41ee-9874-66e41121c6eb.png" tvg-url="https://www.turkuvapp.com/" tvg-id="RihatMusic.tr",Rihat Music
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/catcast/rihatmusic.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://assets.uzunmuhalefet.com/logos/df68b5b5-c14f-4d9c-a8cb-b34a02f50c18.png" tvg-url="https://www.trtbelgesel.com.tr/" tvg-id="TRTBelgesel.tr",TRT Belgesel
 https://streams.uzunmuhalefet.com/stream/d2c6d071-d252-4b73-9607-df0084017f2e.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://assets.uzunmuhalefet.com/logos/22f97725-d582-42bb-a50a-e2437125558a.png" tvg-url="https://www.tgrtbelgesel.com.tr/" tvg-id="TGRTBelgesel.tr",TGRT Belgesel
@@ -2173,6 +2175,8 @@ https://cdn1-ordubeltv.yayin.com.tr/ordubeltv/ordubeltv/playlist.m3u8
 https://pazarciktv.ozelip.net:3962/hybrid/play.m3u8
 #EXTINF:-1,TV 25
 https://cdn-tv25.yayin.com.tr/tv25/tv25/chunklist.m3u8
+#EXTINF:-1,Turküz Play 1
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/catcast/turkuzplay1.m3u8
 #EXTINF:-1 group-title="4K" tvg-logo="https://assets.uzunmuhalefet.com/logos/aae0367d-c9ab-45a2-8518-0968cd5d2f55.png" tvg-url="https://www.trt.com.tr/" tvg-id="TRT4K.tr",TRT 4K
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/4001/index.m3u8
 #EXTINF:-1 tvg-id="ARBGunes.az@SD" tvg-logo="https://i.imgur.com/dSg7KUK.png" group-title="Kids",ARB Gunes
@@ -2218,6 +2222,14 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
 #EXTINF:-1,TMB Azerbaycan
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
+#EXTINF:-1,Mega TV Azerbaycan
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/catcast/megatvaz.m3u8
+#EXTINF:-1,Alvin Music
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/catcast/alvin-music.m3u8
+#EXTINF:-1,Alvin Ovcu
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/catcast/alvin-ovcu.m3u8
+#EXTINF:-1,Now Music
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/catcast/now-music.m3u8
 #EXTINF:-1,*Radyo 40 - KIRŞEHİR NEŞET ERTAŞ - HasBahCa
 http://radyo.yayin.com.tr:4084/stream
 #EXTINF:-1,*Radyo 40 - KIRŞEHİR YAYIN 1 - HasBahCa
