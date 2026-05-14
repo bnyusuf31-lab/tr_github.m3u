@@ -1115,6 +1115,8 @@ http://c3921155.edmonst.net/iptv/E4XLXZWBES7MLN/6864/index.m3u8
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.tr" tvg-logo="" group-title="Belgesel",Discovery Channel
 https://tatataliscaa.testworker0y.workers.dev/channel/RGlzY292ZXJ5IENoYW5uZWw=.m3u8
+#EXTINF:-1 tvg-id="DiscoveryID.tr" tvg-logo="" group-title="Belgesel",ID
+https://tatataliscaa.testworker0y.workers.dev/channel/RGlzY292ZXJ5IFNjaWVuY2U=.m3u8
 #EXTINF:-1,7.Darcizzle Offshore Fishing
 https://30a-tv.com/darcizzle.m3u8?wowzasessionid=inspiration
 #EXTINF:-1,7.H20 TV
