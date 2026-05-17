@@ -50,7 +50,7 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Sozcu_Tv.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="https://assets.uzunmuhalefet.com/logos/76175b6c-2a79-4fcd-89d5-026c4e76edb1.png" tvg-url="https://www.ekoltv.com.tr/" tvg-id="EkolTV.tr",Ekol TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="https://assets.uzunmuhalefet.com/logos/1af160f1-276e-401f-9ecf-2157e05bf477.png" tvg-url="https://www.tvnet.com.tr/" tvg-id="TVNET.tr",TVNET
-https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Tv_Net.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="https://assets.uzunmuhalefet.com/logos/58890cb1-145f-43fe-86f9-a5e406bd4ed4.png" tvg-url="https://www.tele1.com.tr/" tvg-id="Tele1.tr",TELE1
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 group-title="Haber" tvg-logo="https://assets.uzunmuhalefet.com/logos/1db4d8d5-bd45-400e-92c4-4739e1f7c241.png" tvg-url="https://www.akittv.com.tr/" tvg-id="AkitTV.tr",Akit TV
