@@ -2240,6 +2240,8 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/catcast/
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/catcast/alvin-ovcu.m3u8
 #EXTINF:-1,Now Music
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/catcast/now-music.m3u8
+#EXTINF:-1,Ayaz TV
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
 #EXTINF:-1,*Radyo 40 - KIRŞEHİR NEŞET ERTAŞ - HasBahCa
 http://radyo.yayin.com.tr:4084/stream
 #EXTINF:-1,*Radyo 40 - KIRŞEHİR YAYIN 1 - HasBahCa
