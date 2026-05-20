@@ -1,0 +1,46 @@
+#EXTINF:-1 tvg-id="TVP1.pl@SD" tvg-logo="https://i.imgur.com/ewpSjBs.png" group-title="Undefined",TVP1 (1080p)
+https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
+#EXTINF:-1 tvg-id="TVP2.pl@SD" tvg-logo="https://i.imgur.com/XxCc32B.png" group-title="Undefined",TVP2 (1080p)
+https://estreams.tv.nej.cz/dash/CH_TVP2_Portable.ism/playlist.mpd
+#EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/jJ1cyxP.png" group-title="Poland",TVP 3 Białystok
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
+#EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/d7uE0rZ.png" group-title="Poland",TVP 3 Bydgoszcz
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbydgoszcz
+#EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/MYk0kom.png" group-title="Poland",TVP 3 Gdańsk
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk
+#EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/OZft9AB.png" group-title="Poland",TVP 3 Gorzów Wielkopolski
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgorzow
+#EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/EiNHwNN.png" group-title="Poland",TVP 3 Katowice
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
+#EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/ik17ZLd.png" group-title="Poland",TVP 3 Kielce
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkielce
+#EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/TQ6ARsw.png" group-title="Poland",TVP 3 Kraków
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkrakow
+#EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/b12A7in.png" group-title="Poland",TVP 3 Łódź
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz
+#EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/fRzp7gs.png" group-title="Poland",TVP 3 Lublin
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplublin
+#EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/aCQO6qz.png" group-title="Poland",TVP 3 Olsztyn
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpolsztyn
+#EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/ahdDDAe.png" group-title="Poland",TVP 3 Opole
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpopole
+#EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/Loa7eIf.png" group-title="Poland",TVP 3 Poznań
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvppoznan
+#EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/IIM5X1o.png" group-title="Poland",TVP 3 Rzeszów
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvprzeszow
+#EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/cDmeYnm.png" group-title="Poland",TVP 3 Szczecin
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin
+#EXTINF:1 tvg-id="TVP3Warszawa.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/RyUSsQI.png" group-title="Poland",TVP 3 Warszawa
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
+#EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/9nrIgx6.png" group-title="Poland",TVP 3 Wrocław
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwroclaw
+#EXTINF:-1 tvg-id="Polsat.pl@SD" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="General",Polsat (1080p)
+https://srv7.flussonic111.com/PL_POLSAT_HD/index.m3u8
+#EXTINF:-1 tvg-id="TVN.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/TVN_logo_2024.svg/120px-TVN_logo_2024.svg.png" group-title="Undefined",TVN
+https://estreams.tv.nej.cz/dash/CH_TVN_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-id="TV4.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/TV4Polska.png" group-title="Undefined",TV4 (1080p) [Geo-blocked]
+https://cdn-s-playnow-live.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
+#EXTINF:1 tvg-id="TVPuls.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/m0WlQCj.png" group-title="Poland",TV Puls
+http://95.211.250.54:80/TV_PULS/mono.m3u8
+#EXTINF:-1 tvg-id="TVN7.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TVN7_HD.png/120px-TVN7_HD.png" group-title="Undefined",TVN 7
+https://estreams.tv.nej.cz/dash/CH_TVN_7_Portable.ism/playlist.mpd
