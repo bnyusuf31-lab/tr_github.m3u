@@ -51,3 +51,5 @@ https://vs2126.vcdn.biz/cacd1c6a99ee154b5c7d78a52d17e27b_megogo/live/hls/b/700_2
 http://178.219.128.68:64889/TV6HD
 #EXTINF:-1 tvg-id="SuperPolsat.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:Super_Polsat_2021_gradient.svg" group-title="Undefined",Super Polsat (1080p)
 https://1802.weebvideo.stream/channel/2370/amlst:live/playlist.m3u8
+#EXTINF:1 tvg-id="EskaTV.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/60qswoE.png" group-title="Poland",Eska
+http://91.226.51.126:8000/udp/239.100.10.139:2234
