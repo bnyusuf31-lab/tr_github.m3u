@@ -32,7 +32,7 @@ http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvprzeszow
 #EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/cDmeYnm.png" group-title="Poland",TVP 3 Szczecin
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin
 #EXTINF:1 tvg-id="TVP3Warszawa.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/RyUSsQI.png" group-title="Poland",TVP 3 Warszawa
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwarszawa
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvp3warszawa.m3u8
 #EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/9nrIgx6.png" group-title="Poland",TVP 3 Wrocław
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwroclaw
 #EXTINF:-1 tvg-id="Polsat.pl@SD" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="General",Polsat (1080p)
@@ -45,3 +45,9 @@ https://cdn-s-playnow-live.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
 http://95.211.250.54:80/TV_PULS/mono.m3u8
 #EXTINF:-1 tvg-id="TVN7.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TVN7_HD.png/120px-TVN7_HD.png" group-title="Undefined",TVN 7
 https://estreams.tv.nej.cz/dash/CH_TVN_7_Portable.ism/playlist.mpd
+#EXTINF:-1 tvg-id="Puls2.pl@SD" tvg-logo="https://i.imgur.com/EOnzPiZ.png" group-title="Undefined",Puls 2 (1080p) [Not 24/7]
+https://vs2126.vcdn.biz/cacd1c6a99ee154b5c7d78a52d17e27b_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157766541/rsid/2d20baa0-758f-43c1-ac66-0df23e9ae3a2/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.162.54*asn/u_srvc/81255/u_did/web_XkXatVzQiYuxwYoGXyXJfjfePaDX3Jzq/type.live/chunklist-sid775857816421306678-b4000000.m3u8
+#EXTINF:-1 tvg-id="TV6.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:TV6-2023.svg" group-title="Undefined",TV6 (1080p) [Geo-blocked]
+http://178.219.128.68:64889/TV6HD
+#EXTINF:-1 tvg-id="SuperPolsat.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:Super_Polsat_2021_gradient.svg" group-title="Undefined",Super Polsat (1080p)
+https://1802.weebvideo.stream/channel/2370/amlst:live/playlist.m3u8
