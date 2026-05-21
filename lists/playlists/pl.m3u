@@ -53,3 +53,19 @@ http://178.219.128.68:64889/TV6HD
 https://1802.weebvideo.stream/channel/2370/amlst:live/playlist.m3u8
 #EXTINF:1 tvg-id="EskaTV.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/60qswoE.png" group-title="Poland",Eska
 http://91.226.51.126:8000/udp/239.100.10.139:2234
+#EXTINF:1 tvg-id="TTV.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/UBiBFpa.png" group-title="Poland",TTV
+http://91.226.51.126:8000/udp/239.100.10.163:2234
+#EXTINF:1 tvg-id="PoloTV.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/NctPaGu.png" group-title="Poland",Polo TV
+http://195.206.253.157:14000/polotv
+#EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/Qew0ex7.png" group-title="Poland",Antena TV
+http://91.226.51.126:8000/udp/239.100.10.84:2234
+#EXTINF:-1 tvg-id="TVTrwam.pl@SD" tvg-logo="https://i.imgur.com/yq10wS5.png" group-title="Undefined",TV Trwam (1080p) [Geo-blocked]
+https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
+#EXTINF:1 tvg-id="StopklatkaTV.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/Zv3gAQW.png" group-title="Poland",Stopklatka TV 
+http://91.226.51.126:8000/udp/239.100.10.34:2234
+#EXTINF:1 tvg-id="FokusTV.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/3ZIc50I.png" group-title="Poland",Fokus TV
+http://95.211.250.54:80/FOKUS_TV/mono.m3u8
+#EXTINF:-1 tvg-id="TVPPolonia.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/960px-TVP_Polonia_Logo_2020.svg.png" group-title="Undefined",TVP Polonia (1080p)
+https://lowa8026-cmyk.github.io/tvpvod/399723.m3u8
+#EXTINF:-1 tvg-id="TVPNauka.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:TVP_Nauka_(2022).svg" group-title="Undefined",TVP Nauka
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpnauka.m3u8
