@@ -7,7 +7,7 @@ http://69.64.57.208/france2/mono.m3u8
 http://69.64.57.208/france3/mono.m3u8
 #EXTINF:-1 tvg-id="France4.fr@SD" tvg-logo="https://fr.wikipedia.org/wiki/Fichier:France_4_2018.svg" group-title="General",France 4 (1080p)
 http://69.64.57.208/france4/mono.m3u8
-#EXTINF:-1 tvg-id="France9.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png" group-title="General",France 5 (1080p)
+#EXTINF:-1 tvg-id="France5.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png" group-title="General",France 5 (1080p)
 http://69.64.57.208/france5/mono.m3u8
 #EXTINF:-1 tvg-id="M6.fr@SD" tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="Entertainment",M6 (720p) [Geo-blocked
 https://sr-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_fp00/index-hd720_audio_fr_128k.m3u8
