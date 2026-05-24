@@ -69,3 +69,47 @@ http://95.211.250.54:80/FOKUS_TV/mono.m3u8
 https://lowa8026-cmyk.github.io/tvpvod/399723.m3u8
 #EXTINF:-1 tvg-id="TVPNauka.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:TVP_Nauka_(2022).svg" group-title="Undefined",TVP Nauka
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpnauka.m3u8
+#EXTINF:-1 tvg-id="TVPDokument.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:TVP_Dokument_(2020).svg" group-title="Undefined",TVP Dokument (1080p)
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpdokument.m3u8
+#EXTINF:-1 tvg-id="TVPRozrywka.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:TVP_Rozrywka_(2013).svg" group-title="Undefined",TVP Rozrywka (1080p)
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvprozrywka.m3u8
+#EXTINF:-1 tvg-id="AlfaTVP.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:Alfa_TVP_(2022).svg" group-title="Undefined",Alfa TVP (1080p)
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/alfatvp.m3u8
+#EXTINF:-1 tvg-id="TVPABC.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:Logo_TVP_ABC.svg" group-title="Animation",TVP ABC (1080p)
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpabc.m3u8
+#EXTINF:-1 tvg-id="TVPKultura.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:TVP_Kultura_(2015).svg" group-title="Undefined",TVP Kultura (1080p)
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpkultura.m3u8
+#EXTINF:-1 tvg-id="TVPHistoria.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:TVP_Historia_logo.svg" group-title="Undefined",TVP Historia (1080p)
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvphistoria.m3u8
+#EXTINF:-1 tvg-id="TVPSport.pl@SD" tvg-logo="https://i.imgur.com/JUZDOCO.png" group-title="Sports",TVP Sport (1080p)
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpsport.m3u8
+#EXTINF:-1 tvg-id="TVPWorld.pl@SD" tvg-logo="https://i.imgur.com/lB4MgRI.png" group-title="News",TVP World (1080p)
+https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8
+#EXTINF:-1 tvg-id="TVPInfo.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/TVP_info_%282024%29.png" group-title="Undefined",TVP Info (1080p)
+https://lowa8026-cmyk.github.io/tvpvod/399699.m3u8
+#EXTINF:-1 tvg-id="TVPKobieta.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:TVP_Kobieta_(2021).svg" group-title="Undefined",TVP Kobieta (1080p)
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpkobieta.m3u8
+#EXTINF:-1 tvg-id="BelsatTV.pl@SD" tvg-logo="https://i.imgur.com/ewpSjBs.png" group-title="Undefined",Biełsat TV (1080p)
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/belsat.m3u8
+#EXTINF:1 tvg-id="Metro.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/AkehGjB.png" group-title="Poland",Metro TV
+http://91.226.51.126:8000/udp/239.100.10.89:2234
+#EXTINF:1 tvg-id="NowaTV.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/gfVlgJ0.png" group-title="Poland",Nowa TV
+http://91.226.51.126:8000/udp/239.100.10.87:2234
+#EXTINF:1 tvg-id="WPTV.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/a4mpHyi.png" group-title="Poland",WP
+http://91.226.51.126:8000/udp/239.100.10.24:2234
+#EXTINF:1 tvg-id="Superstacja.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/jAXC14l.png" group-title="Poland",Wydarzenia 24
+http://95.211.250.54:80/SUPERSTACJA_TV/mono.m3u8
+#EXTINF:1 tvg-id="TVRepublika.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/5zH50I8.png" group-title="Poland",Telewizja Republika
+https://redir.cache.orange.pl/jupiter/o2-cl7/ssl//live/tvrepublika/live-tvrepublika-6000k.m3u8
+#EXTINF:-1 tvg-id="WPolscePL.pl@SD" tvg-logo="https://i.imgur.com/HQ8UyhL.png" group-title="Undefined",W Polsce PL (720p)
+https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
+#EXTINF:-1 tvg-id="CDAPremium.pl@SD" tvg-logo="" group-title="Undefined",CDA Premium 
+http://blank
+#EXTINF:-1 tvg-id="SklepKaptian.pl@SD" tvg-logo="" group-title="Undefined",Sklep Kaptian PL
+https://www.sklepkaptian.pl
+#EXTINF:-1 tvg-id="TVPVOD.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:TVP_GO_-_horizontal_(2022).svg" group-title="Undefined",TVP VOD
+https://tvpvod.pl
+#EXTINF:-1 tvg-id="TVPABC2.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:TVP_ABC_2_(2022).svg" group-title="Animation",TVP ABC 2 (1080p)
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpabc2.m3u8
+#EXTINF:-1 tvg-id="TVPHistoria2.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:Logo_TVP_ABC.svg" group-title="Animation",TVP Historia 2 (1080p)
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvphistoria2.m3u8
