@@ -111,5 +111,33 @@ https://www.sklepkaptian.pl
 https://tvpvod.pl
 #EXTINF:-1 tvg-id="TVPABC2.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:TVP_ABC_2_(2022).svg" group-title="Animation",TVP ABC 2 (1080p)
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpabc2.m3u8
-#EXTINF:-1 tvg-id="TVPHistoria2.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:Logo_TVP_ABC.svg" group-title="Animation",TVP Historia 2 (1080p)
+#EXTINF:-1 tvg-id="TVPHistoria2.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:TVP_Historia_2_(2021).svg" group-title="Animation",TVP Historia 2 (1080p)
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvphistoria2.m3u8
+#EXTINF:-1 tvg-id="TVPKultura2.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:TVP_Kultura_2_(2020).svg" group-title="Animation",TVP Kultura 2 (1080p)
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpkultura2.m3u8
+#EXTINF:-1,test95
+http://emitel.com
+#EXTINF:-1,test96
+http://emitel.com
+#EXTINF:-1,test97
+http://emitel.com
+#EXTINF:-1,EmiRadio
+http://emitel.com
+#EXTINF:-1,Emi TV
+http://emitel.com
+#EXTINF:-1 tvg-id="PolsatSport2.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:Polsat_Sport_2_2024.svg" group-title="Undefined",Polsat Sport 1 (1080p) [Geo-blocked]
+http://463758a0.ucomist.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7308/index.m3u8
+#EXTINF:-1 tvg-id="PolsatNewsPolityka.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/960px-Polsat_News_Polityka_2024_gradient.svg.png" group-title="News",Polsat News Polityka (1080p) [Geo-blocked]
+https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
+#EXTINF:-1,test211
+http://emitel.com
+#EXTINF:-1,test212
+http://emitel.com
+#EXTINF:-1,test213
+http://emitel.com
+#EXTINF:-1,test214
+http://emitel.com
+#EXTINF:-1,test215
+http://emitel.com
+#EXTINF:-1 tvg-id="PolsatHbbTV.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:Polsat_Go.svg" group-title="Undefined",Polsat HbbTV (1080p) 
+https://www.polsatbox.pl/
