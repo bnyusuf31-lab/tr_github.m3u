@@ -22,7 +22,7 @@ https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
 #EXTINF:-1 tvg-id="TMC.fr@SD" tvg-logo="https://fr.wikipedia.org/wiki/Fichier:TMC_logo_2016.svg" group-title="Undefined",TMC (1080p) [Geo-Blocked]
 https://sv1.data-stream.top/cd6747a04a15dead136fece0ea3dd3019f5c3614ea715d88c081ed536dba3e27/hls/tmc.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr@SD" tvg-logo="https://i.imgur.com/kqYssbW.png" group-title="Kids",Gulli (720p) [Geo-Blocked]
-https://viamotionhsi.netplus.ch/live/eds/gulli/browser-dash/gulli.mpd
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_q2hyb21h/hls-short-sd.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr@SD" tvg-logo="https://i.imgur.com/YJCcczD.png" group-title="News",BFM TV (1080p)
 https://abg3-xdn-edge-live01.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/sid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcCI6Ijg4LjIyOC4zNS4xMjAiLCJzdWIiOiJCRk1fVFYiLCJpc3MiOiJjYnY0LWNkbi1zcjAwIiwiZXhwIjoxNzc5NTE1ODU3LCJpYXQiOjE3Nzk0NzI2NTcsImp0aSI6IjBiZWI2NG1zMG5hM2J0NjlkZXZnIn0.AItBUJV5lqjFWW_GONUYv-QvdjxXU4_CJUJtuRBmoxw/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-id="CNews.fr@SD" tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="News",CNews (1080p) [Geo-Blocked]
