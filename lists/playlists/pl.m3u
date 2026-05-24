@@ -38,7 +38,7 @@ http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpwroclaw
 #EXTINF:-1 tvg-id="Polsat.pl@SD" tvg-logo="https://i.imgur.com/xff6zGN.png" group-title="General",Polsat (1080p)
 https://srv7.flussonic111.com/PL_POLSAT_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVN.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/TVN_logo_2024.svg/120px-TVN_logo_2024.svg.png" group-title="Undefined",TVN
-https://estreams.tv.nej.cz/dash/CH_TVN_Portable.ism/playlist.mpd
+http://463758a0.ucomist.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7286/index.m3u8
 #EXTINF:-1 tvg-id="TV4.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/TV4Polska.png" group-title="Undefined",TV4 (1080p) [Geo-blocked]
 https://cdn-s-playnow-live.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
 #EXTINF:1 tvg-id="TVPuls.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/m0WlQCj.png" group-title="Poland",TV Puls
