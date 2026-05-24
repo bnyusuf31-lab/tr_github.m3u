@@ -40,7 +40,7 @@ https://srv7.flussonic111.com/PL_POLSAT_HD/index.m3u8
 #EXTINF:-1 tvg-id="TVN.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/TVN_logo_2024.svg/120px-TVN_logo_2024.svg.png" group-title="Undefined",TVN
 http://463758a0.ucomist.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7286/index.m3u8
 #EXTINF:-1 tvg-id="TV4.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/TV4Polska.png" group-title="Undefined",TV4 (1080p) [Geo-blocked]
-https://cdn-s-playnow-live.pluscdn.pl/ch/1502601/309/dash/e25c2c93/live.mpd
+http://463758a0.ucomist.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7290/index.m3u8
 #EXTINF:1 tvg-id="TVPuls.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/m0WlQCj.png" group-title="Poland",TV Puls
 http://95.211.250.54:80/TV_PULS/mono.m3u8
 #EXTINF:-1 tvg-id="TVN7.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TVN7_HD.png/120px-TVN7_HD.png" group-title="Undefined",TVN 7
