@@ -96,7 +96,7 @@ http://80.53.89.117:29980/Pogoda24/index.m3u8
 #EXTINF:-1 tvg-id="TVPRozrywka.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:TVP_Rozrywka_(2013).svg" group-title="Undefined",TVP Rozrywka (1080p)
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvprozrywka.m3u8
 #EXTINF:-1 tvg-id="AlfaTVP.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:Alfa_TVP_(2022).svg" group-title="Undefined",Alfa TVP (1080p)
-https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/alfatvp.m3u8
+https://rsdt-krk201-5.tvp.pl/token/video/live/65184034/20260525/2897794786/9tw3Bd3EPANLpuGLZvTiXom7g21H54fw72bdIaD_UC7CP5j9gWCkRgrJeyFpEKnMGMEQFEE-47SgGzaPmQ7R53aaJo87H-yoWFOPtJdlrIeK-qZav7lUHRC0cyiJrLPCpb5AdBXOEKbghOOyVjnxet_qaUBUb8NE3V95TE2Q6mc/156/master_v1.m3u8
 #EXTINF:-1 tvg-id="TVPABC.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:Logo_TVP_ABC.svg" group-title="Animation",TVP ABC (1080p)
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpabc.m3u8
 #EXTINF:-1 tvg-id="TVPKultura.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:TVP_Kultura_(2015).svg" group-title="Undefined",TVP Kultura (1080p)
