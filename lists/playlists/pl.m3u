@@ -129,6 +129,14 @@ http://emitel.com
 http://463758a0.ucomist.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7296/index.m3u8
 #EXTINF:-1 tvg-id="PolsatSport2.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:Polsat_Sport_2_2024.svg" group-title="Undefined",Polsat Sport 2 (1080p) [Geo-blocked]
 http://463758a0.ucomist.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7308/index.m3u8
+#EXTINF:1 tvg-id="Eurosport1Polska.fr" tvg-language="Polish" tvg-logo="https://i.imgur.com/Z00sdKe.png" group-title="Poland",EUROSPORT_1 HD
+http://95.211.250.54:80/EUROSPORT_1/mono.m3u8
+#EXTINF:1 tvg-id="Eurosport2Polska.fr" tvg-language="Polish" tvg-logo="https://i.imgur.com/xkz38Je.png" group-title="Poland",EUROSPORT_2 HD
+http://95.211.250.54:80/EUROSPORT_2/mono.m3u8
+#EXTINF:1 tvg-id="ElevenSports1Polska.uk" tvg-language="Polish" tvg-logo="https://i.imgur.com/22s1HVu.png" group-title="Poland",Eleven Sports 1
+http://95.211.250.54:80/ELEVEN/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-id="ElevenSports2Polska.uk" tvg-language="Polish" tvg-logo="https://i.imgur.com/YVAstwW.png" group-title="Poland",Eleven Sports 2
+http://95.211.250.54:80/ELEVEN_SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PolsatNewsPolityka.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/960px-Polsat_News_Polityka_2024_gradient.svg.png" group-title="News",Polsat News Polityka (1080p) [Geo-blocked]
 https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
 #EXTINF:-1,test211
