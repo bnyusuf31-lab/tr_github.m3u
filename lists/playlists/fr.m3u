@@ -28,7 +28,7 @@ https://abg3-xdn-edge-live01.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/
 #EXTINF:-1 tvg-id="CNews.fr@SD" tvg-logo="https://i.imgur.com/sSNhk2g.png" group-title="News",CNews (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8
 #EXTINF:-1 tvg-id="LCI.fr@HD" tvg-logo="https://i.imgur.com/DED8EXs.png" group-title="News",LCI
-https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/lci.m3u8
+https://live-lci-das.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI4OC4yMjguMzUuMTIwIiwiY21jZCI6IiIsImV4cCI6MTc3OTcyMjAwMiwiZ2lkIjoiNDYxNmE2M2YtMTc1Yi00ZWQ1LTg3ZjMtZWNlMjQxMDhhODNjIiwiaWF0IjoxNzc5NzA3NjAyLCJpc3MiOiJkZWxpdmVyeSIsIm1heGIiOjIwMDAwMDAsInN0ZW0iOiIvb3V0L3YxLzc1NzA4OGY3ZmRmMDQxZmZhMjE0OTRmNzVkMjdjNmNlIiwic3ViIjoiNDYxNmE2M2YtMTc1Yi00ZWQ1LTg3ZjMtZWNlMjQxMDhhODNjIn0.YzYrJp5RdFny3pSNR2gluEvOhWUwYAosqO6dAi73pQ4/out/v1/757088f7fdf041ffa21494f75d27c6ce/index.mpd
 #EXTINF:-1 tvg-id="Franceinfo.fr@SD" tvg-logo="https://i.imgur.com/eITXz6A.png" group-title="News",Franceinfo (720p) [Geo-Blocked]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/francetv/franceinfo.m3u8
 #EXTINF:-1 tvg-id="CStar.fr@SD" tvg-logo="https://i.imgur.com/w4kAX1V.png" group-title="Entertainment",C Star (720p) [Geo-Blocked]
