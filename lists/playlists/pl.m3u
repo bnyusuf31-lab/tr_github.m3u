@@ -108,7 +108,7 @@ http://blank
 #EXTINF:-1 tvg-id="SklepKaptian.pl@SD" tvg-logo="" group-title="Undefined",Sklep Kaptian PL
 https://www.sklepkaptian.pl
 #EXTINF:-1 tvg-id="TVPVOD.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:TVP_GO_-_horizontal_(2022).svg" group-title="Undefined",TVP VOD
-https://tvpvod.pl
+https://vod.tvp.pl
 #EXTINF:-1 tvg-id="TVPABC2.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:TVP_ABC_2_(2022).svg" group-title="Animation",TVP ABC 2 (1080p)
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpabc2.m3u8
 #EXTINF:-1 tvg-id="TVPHistoria2.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:TVP_Historia_2_(2021).svg" group-title="Animation",TVP Historia 2 (1080p)
