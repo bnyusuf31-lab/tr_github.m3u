@@ -48,7 +48,7 @@ http://463758a0.ucomist.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7279/index.m3u8
 #EXTINF:-1 tvg-id="Puls2.pl@SD" tvg-logo="https://i.imgur.com/EOnzPiZ.png" group-title="Undefined",Puls 2 (1080p) [Not 24/7]
 https://vs2126.vcdn.biz/cacd1c6a99ee154b5c7d78a52d17e27b_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157766541/rsid/2d20baa0-758f-43c1-ac66-0df23e9ae3a2/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/37.109.162.54*asn/u_srvc/81255/u_did/web_XkXatVzQiYuxwYoGXyXJfjfePaDX3Jzq/type.live/chunklist-sid775857816421306678-b4000000.m3u8
 #EXTINF:-1 tvg-id="TV6.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:TV6-2023.svg" group-title="Undefined",TV6 (1080p) [Geo-blocked]
-http://178.219.128.68:64889/TV6HD
+http://463758a0.ucomist.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7289/index.m3u8
 #EXTINF:-1 tvg-id="SuperPolsat.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:Super_Polsat_2021_gradient.svg" group-title="Undefined",Super Polsat (1080p)
 https://1802.weebvideo.stream/channel/2370/amlst:live/playlist.m3u8
 #EXTINF:1 tvg-id="EskaTV.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/60qswoE.png" group-title="Poland",Eska
