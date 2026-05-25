@@ -69,6 +69,22 @@ http://95.211.250.54:80/FOKUS_TV/mono.m3u8
 https://lowa8026-cmyk.github.io/tvpvod/399723.m3u8
 #EXTINF:-1 tvg-id="TVPNauka.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:TVP_Nauka_(2022).svg" group-title="Undefined",TVP Nauka
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpnauka.m3u8
+#EXTINF:1 tvg-id="" tvg-language="Polish" tvg-logo="https://i.imgur.com/YF0U4zI.png" group-title="Poland",Top Kids
+http://91.226.51.126:8000/udp/239.100.10.115:2234
+#EXTINF:1 tvg-id="HomeTV.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/aVSUDYc.png" group-title="Poland",HOME_TV
+http://95.211.250.54:80/HOME_TV/mono.m3u8
+#EXTINF:-1 tvg-id="TVT.pl@SD" tvg-logo="https://i.imgur.com/oZyeUzG.png" group-title="Undefined",TVT (720p)
+https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
+#EXTINF:-1 tvg-id="TVRegionalnaLubin.pl@SD" tvg-logo="https://i.imgur.com/2WVNt3f.png" group-title="Undefined",TV Regionalna Lubin (1080p)
+https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8
+#EXTINF:-1 tvg-id="TVCSuper.pl@SD" tvg-logo="" group-title="Undefined",TVC Super (1080p)
+http://80.53.89.117:29980/TVCSuper/index.m3u8
+#EXTINF:1 tvg-id="TVRepublikaPlus.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/5zH50I8.png" group-title="Poland",Telewizja Republika Plus
+https://redir.cache.orange.pl/jupiter/o2-cl7/ssl//live/tvrepublikaplus/live-tvrepublikaplus-6000k.m3u8
+#EXTINF:1 tvg-id="TVC.pl" tvg-language="Polish" tvg-logo="" group-title="Poland",TVC
+https://liveovh010.cda.pl/enc118/tvchdraw/tvchdraw.m3u8
+#EXTINF:1 tvg-id="TVOkazje.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/5zH50I8.png" group-title="Poland",TV Okazje
+https://lb2-e3-20.pluscdn.pl/ch/1523532/366/dash/2cf383bb/live.mpd
 #EXTINF:-1 tvg-id="TVPDokument.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:TVP_Dokument_(2020).svg" group-title="Undefined",TVP Dokument (1080p)
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpdokument.m3u8
 #EXTINF:-1 tvg-id="TVPRozrywka.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:TVP_Rozrywka_(2013).svg" group-title="Undefined",TVP Rozrywka (1080p)
