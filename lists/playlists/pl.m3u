@@ -83,10 +83,16 @@ http://80.53.89.117:29980/TVCSuper/index.m3u8
 https://redir.cache.orange.pl/jupiter/o2-cl7/ssl//live/tvrepublikaplus/live-tvrepublikaplus-6000k.m3u8
 #EXTINF:1 tvg-id="TVC.pl" tvg-language="Polish" tvg-logo="" group-title="Poland",TVC
 https://liveovh010.cda.pl/enc118/tvchdraw/tvchdraw.m3u8
-#EXTINF:1 tvg-id="TVOkazje.pl" tvg-language="Polish" tvg-logo="https://i.imgur.com/5zH50I8.png" group-title="Poland",TV Okazje
+#EXTINF:1 tvg-id="TVOkazje.pl" tvg-language="Polish" tvg-logo="" group-title="Poland",TV Okazje
 https://lb2-e3-20.pluscdn.pl/ch/1523532/366/dash/2cf383bb/live.mpd
 #EXTINF:-1 tvg-id="TVPDokument.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:TVP_Dokument_(2020).svg" group-title="Undefined",TVP Dokument (1080p)
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpdokument.m3u8
+#EXTINF:1 tvg-id="Filmax.pl" tvg-language="Polish" tvg-logo="" group-title="Poland",Filmax
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc113/filmaxhdraw/filmaxhdraw.m3u8
+#EXTINF:-1 tvg-id="StarsTV.pl@SD" tvg-logo="" group-title="Music",Stars TV (1080p)
+https://vs2120.vcdn.biz/1e1e9e72486cd8ae299220094b887357_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157933561/rsid/872a7cf3-5b98-454d-bd4c-d0202a08fd2c/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZPorcR6/type.live/chunklist-sid1122592601448291971-b4000000.m3u8
+#EXTINF:-1 tvg-id="PogodaTV.pl@SD" tvg-logo="" group-title="Undefined",Pogoda TV (1080p)
+http://80.53.89.117:29980/Pogoda24/index.m3u8
 #EXTINF:-1 tvg-id="TVPRozrywka.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:TVP_Rozrywka_(2013).svg" group-title="Undefined",TVP Rozrywka (1080p)
 https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvprozrywka.m3u8
 #EXTINF:-1 tvg-id="AlfaTVP.pl@SD" tvg-logo="https://pl.wikipedia.org/wiki/Plik:Alfa_TVP_(2022).svg" group-title="Undefined",Alfa TVP (1080p)
@@ -119,6 +125,10 @@ http://95.211.250.54:80/SUPERSTACJA_TV/mono.m3u8
 https://redir.cache.orange.pl/jupiter/o2-cl7/ssl//live/tvrepublika/live-tvrepublika-6000k.m3u8
 #EXTINF:-1 tvg-id="WPolscePL.pl@SD" tvg-logo="https://i.imgur.com/HQ8UyhL.png" group-title="Undefined",W Polsce PL (720p)
 https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
+#EXTINF:-1 tvg-id="DolceVitaTV.pl@SD" tvg-logo="" group-title="Undefined",Dolce Vita TV (1080p)
+https://vs2120.vcdn.biz/1e1e9e72486cd8ae299220094b887357_megogo/live/hls/b/700_2490_4000/u_sid/0/o/157933561/rsid/872a7cf3-5b98-454d-bd4c-d0202a08fd2c/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/91.226.196.37*asn/u_srvc/81255/u_did/web_duMuKipCoyWU9tWH3VWiK9eX5ZP/type.live/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTN.pl@SD" tvg-logo="" group-title="General",EWTN Polska (1080p)
+https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CDAPremium.pl@SD" tvg-logo="" group-title="Undefined",CDA Premium 
 http://blank
 #EXTINF:-1 tvg-id="SklepKaptian.pl@SD" tvg-logo="" group-title="Undefined",Sklep Kaptian PL
